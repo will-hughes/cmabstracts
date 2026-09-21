@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+
+<xpage:title>Why not add ORCID identifiers to these records?</xpage:title>
+    <xpage:body>
+		<div>
+			<p>
+			ORCID works when an author claims their own identifier. They do it at submission, attaching it to the work as they register it. That is the right moment, because the author is the only person who knows for certain which works are theirs. The catalogue comes later in the chain. Adding an ORCID in this catalogue, after publication, would mean figuring it out after the fact, rather than recording something the author has already stated.
+			</p>
+			<p>
+			Working that out is the hard part. To attach an identifier to "Smith, J." I have to know which J. Smith wrote the paper, and that is the disambiguation problem under another name. The identifier does not settle the question of who the author is. It assumes the question has already been answered. If I knew enough to assign the right ORCID, I would not need the ORCID to tell me whose work it was.
+			</p>
+			<p>
+			here is also a question of authority. An identifier belongs to the person it names. Assigning one to a record is a statement about someone's identity that they have not made themselves. If I get it wrong, the catalogue now claims the work was written by the wrong person. A missing forename is a genuine gap in the raw data. A confident identifier attached to the wrong individual is a potential fault.
+			</p>
+			<p>
+			Then there is the history. ORCID started in 2012. Most of the records here are older than that, and the literature in this field reaches back a good deal further. There was no identifier to collect when these works were submitted. Adding it now would mean matching authors by hand across decades of records, and the coverage would be patchy, because many authors never registered or have stopped maintaining their account. Indeed, many are now untraceable.
+			</p>
+			<p>
+			This is the same position that explains the initials, as covered in an earlier FAQ. Identity is decided upstream, by the author and the registries built for the purpose. When an identifier already travels with a record, a catalogue can keep it. When it does not, a catalogue records what the source provides and leave the rest to be put right where it can be put right properly.
+			</p>
+		</div>
+		
+		<div style="margin-bottom: 1em">
+		  <epc:phrase ref="contact-footer"/>
+		</div>	
+			
+		<p><small><i>Last updated 16 June 2026</i></small></p>
+    </xpage:body>
+</xpage:page>

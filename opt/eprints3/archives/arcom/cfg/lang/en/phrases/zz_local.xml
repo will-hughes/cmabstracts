@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE phrases SYSTEM "entities.dtd">
+<epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
+
+  <!-- To override system phrases add them here -->
+
+  <!-- General UI -->
+  <epp:phrase id="lib/metafield:unspecified_selection">--</epp:phrase>
+  <epp:phrase id="ordername_eprint_byauthor">by name</epp:phrase>
+  <epp:phrase id="ordername_eprint_byeprintid_asc">by Item ID (ascending)</epp:phrase>
+  <epp:phrase id="ordername_eprint_byeprintid_desc">by Item ID (descending)</epp:phrase>
+  <epp:phrase id="template/navigation:about:title">Introduction to the site</epp:phrase>
+  <epp:phrase id="template/navigation:home:title">Main starting page</epp:phrase>
+  <epp:phrase id="template/navigation:browse:title">Browse using prepared lists</epp:phrase>
+
+  <!-- Field names and help -->
+  <epp:phrase id="eprint_fieldname_thesis_name">Thesis Name</epp:phrase>
+  <epp:phrase id="eprint_fieldhelp_thesis_name">Enter the doctoral award abbreviation exactly as it should appear in the record, e.g. PhD, DBA, EngD, DPhil. This will be displayed without further formatting.</epp:phrase>
+  <epp:phrase id="eprint_fieldname_thesis_type_display">Thesis type display</epp:phrase>
+  <epp:phrase id="eprint_fieldname_facet">Research facet</epp:phrase>
+  <epp:phrase id="eprint_fieldname_topic">Topics</epp:phrase>
+  <epp:phrase id="eprint_fieldname_subject">Subjects</epp:phrase>
+  <epp:phrase id="eprint_fieldname_iterm">Index terms</epp:phrase>
+  <epp:phrase id="eprint_fieldname_dscope">Descriptive scope</epp:phrase>
+  <epp:phrase id="eprint_fieldname_annotation">Notes</epp:phrase>
+  <epp:phrase id="eprint_fieldhelp_annotation">Specific notes about anything unusual or unique to this record</epp:phrase>
+  <epp:phrase id="eprint_fieldname_publication">Journal Title</epp:phrase>
+  <epp:phrase id="eprint_fieldname_creators">Authors</epp:phrase>
+  <epp:phrase id="eprint_fieldname_creators_name">Author(s)</epp:phrase>
+  <epp:phrase id="epm_fieldname_creators">Creators</epp:phrase>
+  <epp:phrase id="eprint_fieldname_id_number">DOI</epp:phrase>
+
+  <!-- Record type names -->
+  <epp:phrase id="eprint_typename_conference_item">Conference Paper</epp:phrase>
+
+  <!-- Search field help -->
+  <epp:phrase id="lib/searchfield:help_fulltext">Enter search term(s). Choose 'all of' for AND; 'any of' for OR.</epp:phrase>
+  <epp:phrase id="lib/searchfield:help_longtext">Enter search term(s). Choose 'all of' for AND; 'any of' for OR.</epp:phrase>
+  <epp:phrase id="lib/searchfield:help_text">Enter search term(s). Choose 'all of' for AND; 'any of' for OR.</epp:phrase>
+
+  <!-- Admin messages -->
+  <epp:phrase id="cgi/users/edit_eprint:item_is_in_archive">This item is available at:<br/><epc:pin name="link"><epc:pin name="url"/></epc:pin></epp:phrase>
+  <epp:phrase id="Plugin/Screen/Staff/EPrintSearch:description">This is the Staff Search page for items in this repository.</epp:phrase>
+
+  <!-- Login -->
+  <epp:phrase id="dynamic:not_logged_in"><a href="{$config{userhome}}">Login</a> <epc:phrase ref="Plugin/Screen:tool_divide"/></epp:phrase>
+
+  <!-- View names -->
+  <epp:phrase id="viewname_eprint_journal_volume">Journal</epp:phrase>
+  <epp:phrase id="viewname_eprint_thesis">Doctoral theses by country</epp:phrase>
+  <epp:phrase id="viewname_eprint_iterm">Index terms</epp:phrase>
+  <epp:phrase id="viewname_eprint_topic">Topics (empirical issues)</epp:phrase>
+  <epp:phrase id="viewname_eprint_subject">Subjects (academic lens)</epp:phrase>
+  <epp:phrase id="viewname_eprint_facet">Research facets</epp:phrase>
+  <epp:phrase id="viewname_eprint_journals">Journal</epp:phrase>
+  <epp:phrase id="viewname_eprint_taxonomy">Taxonomy</epp:phrase>
+  <epp:phrase id="viewname_theses">Doctoral Theses</epp:phrase>
+  
+  <!-- Navigation titles for menu where different-->
+  <epp:phrase id="navmenu_eprint_subject">Subjects</epp:phrase>
+  <epp:phrase id="navmenu_eprint_thesis">Doctoral theses</epp:phrase>
+
+
+  <!-- Browse view titles -->
+  <epp:phrase id="viewtitle:browse_by_volume_for_journal">Browsing <epc:print expr="publication"/> by Volume</epp:phrase>
+  <epp:phrase id="viewtitle:browse_by_iterm">Browse by Index Terms</epp:phrase>
+  <epp:phrase id="viewtitle:browse_by_iterm_selected">Browse by: <epc:param name="iterm"/></epp:phrase>
+
+  <!-- Journal/Volume browse titles -->
+  <epp:phrase id="viewtitle_eprint_journal_volume_menu_1">Browse by Journal/Volume</epp:phrase>
+  <epp:phrase id="viewtitle_eprint_journal_volume_menu_2"><epc:pin name="value1"/> by Volume</epp:phrase>
+  <epp:phrase id="viewtitle_eprint_journal_volume_list"><epc:pin name="value1"/> - Volume <epc:pin name="value2"/></epp:phrase>
+
+  <!-- Thesis browse titles -->
+  <epp:phrase id="viewtitle_eprint_thesis_menu_1">Browse theses by country</epp:phrase>
+  <epp:phrase id="viewtitle_eprint_thesis_menu_2"><epc:pin name="value1"/> by Institution</epp:phrase>
+  <epp:phrase id="viewtitle_eprint_thesis_list">Theses from <epc:pin name="value1"/> - <epc:pin name="value2"/></epp:phrase>
+
+  <!-- Taxonomy browse titles -->
+  <epp:phrase id="viewtitle_eprint_iterm_list">Items with Index Term: <epc:pin name="value1"/></epp:phrase>
+  <epp:phrase id="viewtitle_eprint_facet_list">Items with Facet: <epc:pin name="value1"/></epp:phrase>
+  <epp:phrase id="viewtitle_eprint_topic_list">Items with Topic: <epc:pin name="value1"/></epp:phrase>
+  <epp:phrase id="viewtitle_eprint_subject_list">Items with Subject: <epc:pin name="value1"/></epp:phrase>
+  
+  <!-- Taxonomy browse labels -->
+  <epp:phrase id="browse_taxonomy">Browse by Taxonomy</epp:phrase>
+  <epp:phrase id="taxonomy_topic">Topics</epp:phrase>
+  <epp:phrase id="taxonomy_subject">Subjects</epp:phrase>
+  <epp:phrase id="taxonomy_facets">Research Facets</epp:phrase>
+  <epp:phrase id="taxonomy_terms">Index Terms</epp:phrase>
+  <epp:phrase id="taxonomy_dscope">Descriptive Scope</epp:phrase>
+
+  <!-- Navigation links -->
+  <epp:phrase id="navigation:back_to_journals">← Back to Journal List</epp:phrase>
+  <epp:phrase id="navigation:back_to_volumes">← Back to Volume List</epp:phrase>
+  <epp:phrase id="navigation:back_to_iterms">← Back to Index Terms</epp:phrase>
+  
+  <!-- Creator name joining -->
+  <epp:phrase id="lib/metafield:join_name">; </epp:phrase>
+  <epp:phrase id="lib/metafield:join_name.last"> and </epp:phrase>
+
+  <!-- Footer -->
+  <epp:phrase id="template:about_eprints"><span xmlns:epc="http://eprints.org/ep3/control"><epc:phrase ref="archive_name"/> is inspired by the <strong>vision, imagination, curiosity and creativity</strong> of the CM research community,<br/> and powered by <em><a href="http://eprints.org/software/">EPrints 3.4</a></em> developed by the <a href="https://www.ecs.soton.ac.uk/">School of Electronics and Computer Science</a> at the University of Southampton. <a href="{$config{rel_path}}/eprints/">About EPrints</a> | <a href="{$config{rel_path}}/accessibility/">Accessibility</a></span></epp:phrase>
+
+  <!--
+  Notes:
+
+  <epp:phrase id="the/phrase/id">New phrase content</epp:phrase>
+
+  To include a pin:
+  <epp:phrase id="the/phrase/id"><epc:pin name="the/pin/name" /></epp:phrase>
+
+  To include one phrase in another:
+  <epp:phrase id="the/phrase/id">Lorem ipsum <epc:phrase ref="another/phrase/id" /></epp:phrase>
+
+  To completely replace one phrase with another:
+  <epp:phrase id="the/phrase/id" ref="phrase/to/copy/id" />
+
+  Phrases in this file will be overridden by zz_webcfg.xml which is modified via the web-based phrase editor.
+  
+  -->
+
+</epp:phrases>

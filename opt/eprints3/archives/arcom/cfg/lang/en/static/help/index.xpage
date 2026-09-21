@@ -1,0 +1,90 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+<xpage:title><epc:phrase ref="archive_name" /> User Documentation</xpage:title>
+<xpage:body>
+
+<p><epc:phrase ref="archive_name" /> is a curated catalogue of construction management research. Records are selected and checked by the editor; some contributors deposit directly, but nothing appears in the catalogue until it has been reviewed and approved. No account is needed to search or browse.</p>
+
+<p>The scope is deliberately narrow. Material from the wider built environment, such as architecture, town planning, or environmental engineering, appears only where it occurs within the journals covered, and is not what the catalogue sets out to collect. How journals and theses are chosen is explained under <a href="/info_choosing_papers.html">choosing papers</a>.</p>
+
+<p>For guidance aimed at your role in relation to this site, rather than at the software, see the <a href="/guides/guides.html">Guides</a>. This page covers the mechanics of finding things.</p>
+
+<ul>
+  <li><a href="#browsing">Browsing</a></li>
+  <li><a href="#searching">Searching</a></li>
+  <li><a href="#text-search-fields">Text fields</a></li>
+  <li><a href="#short-words">Words that are not indexed</a></li>
+  <li><a href="#taxonomy-fields">Searching by topic and subject</a></li>
+  <li><a href="#list-of-values">Item type</a></li>
+  <li><a href="#dates">Dates</a></li>
+  <li><a href="#record-numbers">Record numbers</a></li>
+</ul>
+
+<h2 id="browsing">Browsing</h2>
+
+<p>The <a href="/view/">Browse</a> menu offers several routes into the catalogue. Bibliographic routes group records by how they were published:</p>
+
+<ul>
+  <li><a href="/view/year/">Year</a></li>
+  <li><a href="/view/journal_volume/">Journal and volume</a></li>
+  <li><a href="/view/thesis/">Doctoral theses</a>, arranged by country and institution</li>
+  <li><a href="/view/creators/">Authors</a></li>
+</ul>
+
+<p>Subject routes group records by what they are about, using the catalogue's own taxonomy:</p>
+
+<ul>
+  <li><a href="/view/topic/">Topics</a></li>
+  <li><a href="/view/subject/">Subjects</a></li>
+  <li><a href="/view/iterm/">Index terms</a></li>
+</ul>
+
+<p>The taxonomy is described under <a href="/guides/taxonomyguide.html">Taxonomy</a>. Because it is applied consistently across the whole catalogue, browsing by topic or subject is often more productive than keyword searching for an unfamiliar area. Users familiar with their topic and with the literature may find keyword searching more amenable.</p>
+
+<h2 id="searching">Searching</h2>
+
+<p>Searches only cover catalogue records. Full texts of papers and theses are not held or indexed here; each record links out to the publisher's version where one is available.</p>
+
+<p>There are two types of search available, a basic search and an advanced search.</p>
+
+<p>The search box in the page header (top right) provides the basic search facility. This searches titles, abstracts, keywords, author names, and the catalogue's subject and topic terms. It does not search journal titles.</p> 
+<p>The basic search box will match an exact phrase if you enclose it in quotation marks. Without quotation marks, it matches records containing all of the words you type, wherever they appear.</p>
+
+<p>To find records within specific journals, use <a href="/cgi/search/advanced">Advanced Search</a>, which offers those and other fields individually and lets you combine them in one query.</p>
+
+<h3 id="text-search-fields">Text fields</h3>
+
+<p>In the advanced search interface, some search fields are numeric, but most fields take words. Two settings control how they are treated:</p>
+
+<ul>
+  <li><strong>All of / Any of</strong> — whether a record must match every word entered, or just one of them.</li>
+  <li><strong>Match</strong> — whole words, or the start of a word. Matching on the start of a word finds longer words beginning with what you typed, so <em>procure</em> will also find <em>procurement</em>.</li>
+</ul>
+
+<p>Punctuation and capitalisation are not significant.</p>
+
+<h3 id="short-words">Words that are not indexed</h3>
+
+<p>Advanced Search ignores words of fewer than three characters, along with a list of very common words such as <em>the</em> and <em>of</em>. Where this happens, the results page says which words were dropped. The basic search box in the header behaves differently and will match short words, so a two-letter term is worth trying there.</p>
+
+<h3 id="taxonomy-fields">Searching by topic and subject</h3>
+
+<p>Advanced Search includes the catalogue's own descriptors — topic, subject and index term — as text fields. They will only match terms that are actually in use, and the form does not offer a list of them, so the practical approach is to find the vocabulary first by browsing <a href="/view/topic/">Topics</a> or <a href="/view/subject/">Subjects</a>, then search using the term you found.</p>
+
+<h3 id="list-of-values">Item type</h3>
+
+<p>Item type is the one field offering a fixed list to select from. Select more than one value by holding Ctrl (or Cmd on a Mac) while clicking; the accompanying setting determines whether a record must match every selected value or only one of them.</p>
+
+<h3 id="dates">Dates</h3>
+
+<p>The date field accepts a single year, or a range. A range is written with a hyphen — <em>2010-2015</em> — and can be left open at either end, so <em>2010-</em> finds everything from 2010 onwards and <em>-1999</em> everything up to and including 1999.</p>
+
+<h3 id="record-numbers">Record numbers</h3>
+
+<p>If you have a record's number, entering it in the record number field on Advanced Search goes straight to it.</p>
+
+<p>Results are listed 100 to a page and can be re-sorted using the controls above the list. Anyone can export results in a range of formats; saved searches require a logged-in account.</p>
+
+</xpage:body>
+</xpage:page>

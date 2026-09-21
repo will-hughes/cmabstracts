@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+
+<xpage:title>What constitutes a research paper?</xpage:title>
+    <xpage:body>
+		<div>
+        <em>Elements of an empirical research paper</em>
+		</div>
+		<div>
+			<p>Plenty of excellent books about research design and writing papers provide pointers towards achieving excellence in your work. This page is not intended as a guide. The information here is presented as a basis for a project to develop a scheme for indexing terms that can be used in CM Abstracts. In order to develop an effective structure for the indexing terms, a clear statement is needed in relation to what we seek to index. Hence, this analysis of elements of a research paper is one of the building blocks of the ongoing work to develop such a scheme. While most papers are published with keywords, these are uncontrolled and not appropriate for a formalized scheme. It is impossible to develop any logic that would describe the way that Uncontrolled Keywords are selected by authors, each of whom has their own idea about the purpose of such keywords. Thus, we seek to develop a focused and specialized scheme that reflects the data we are indexing.
+			</p>
+			<p>There are many kinds of research and not all of them may be organized into an overarching pattern. However, in the context of construction management research, there are specific definitional characteristics of our work that lead to an expectation that the research is basically social science, given that we are looking at management in all of its aspects. And the work is basically empirical, given that we are applying it to work in the construction sector.
+			</p>
+			<p>By social sciences, we include management, organization, economics, sociology... just about anything that focuses on society, organizations, projects and the relationships among people and things that enable us to understand better how people interact and how they influence (or are influenced by) the world around them. Clearly, this excludes the natural sciences, biology, physics etc. However, there are few clearcut definitions in any attempt to classify sciences and knowledge. For example, information science and materials are not exclusively outside social sciences because there are aspects of these that involve people and management and, therefore, fall within the category of management research in which we are interested, as long as it relates to the construction sector. Basically, we are focused on empirical research using social sciences in relation to construction work. This leads to a series of expectations about the kind of research papers we value:
+			</p>
+			<ul>
+				<li><b>Theory: </b>In the report of the research, the paper, this is usually the core of the first phase of the literature review. While it appears early in the paper, it may be something that does not emerge until after a considerable amount of reading and thinking. It is closely related to the kind of phenomena that the research focuses upon and the conceptual framing of the argument.</li>
+				<li><b>Conceptual model: </b>As a part of thinking about the underlying theory of the work, many research might set up a conceptual model that sets out the relationships between the key concepts. This is how theoretical insights are often put across. There is a lot of confusion about theory, but it may hepful to think about theory as <i>a statement of causation that can be somewhat generalized</i>. While much of social science is about explanation, rather than prediction, there is still a pursuit of improving our understanding by being clear about concepts and the relationships between them.</li>
+				<li><b>Phenomena or objects: </b>Many researchers begin their work with a fairly strong idea about what they are interested in, in practical terms. The initial stages of a research project will be in tracing back through the literature to see what kind of concepts and theories are generally mobilized in relation to the kind of problems perceived with the phenomenon in focus. This is the purpose of the literature review. It is not a mer mapping out of what has gone before, but a careful sifting of different points of departure in terms of theoretical stanceand conceptual definitions. Together, these first three aspects of research define the research project.</li>
+				<li><b>Data: </b>Based on what has been decided and written in the first, conceptual stage of the research, empirical work is, by definition, driven by data collection. Reviewing relevant previous research will reveal what kind of data would be most helpful in dealing with questions of a similar nature. And, of course, it must always be kept in mind that questions of a similar conceptual and theoretical nature are not necessarily dealing with construction work.</li>
+				<li><b>Context of data: </b>No researcher can collect all of the data. We focus on a practical subset of data that is sufficiently robust to deal with the question. It is important to focus on specifics, especially if they might unduly influence the data in a way that is not being analysed for, such as location, object, process, role. This kind of clarity is key to being able to specify the extent to which findings may be generalized.</li>
+				<li><b>Analysis: </b>The analytical frmaing depends on the kind of data to be collected and the design of the analytical methods will take place in parallel with the design of the data collection. Both will be based on previous work asking similar kinds of question, even if they are from different empirical backgrounds.</li>
+				<li><b>Discussion: </b>The discussion of the findings from the work will reflect back to the conceptual model, reflecting the way the research was designed and explaining the strengths and weaknesses of the model.</li>
+				<li><b>Conclusions: </b>The conclusions will be clear statements about what has been discovered in relation to the theoreticla framing of the work. Conclusions may draw upon one, two or three strands, depending on the work that has been carried out. One strand is sufficient and the temptation to conclude under all three should be avoided if the work is targeted, focused and carefully designed. These threee strands of potential conclusions are for researchers, practitioners or policy-makers. It would be unnusual for one piece of work to be oriented to all three.</li>
+				<li><b>Limits of findings: </b>Finally, whatever is concluded can only be asserted in relation to the data that was collected and the limits placed on the data during the design of the empirical work. These often lead to statements about future work, which are not to be confused with a research agenda for some imagined future person or group. Rather, the recommendations for future work form a clear indication that the researcher knows what the boundaries of the reported work are, and can define how those boundaries could be extended in the future.</li>
+			</ul>
+			<p>
+			These stages in the work do not necessarily be reported in this sequence for every piece of work. Care is needed in reflecting the conventions used in different kinds of research. For example, ethnographic research begins with observations, not with theory. It is the nature of the theoretical framing that should dictate the structure of the paper, not a static menu of one person's expectations of what a research paper may hold. The ideas suggested above are intended to prompt careful thought and are not offered as a panacea or a fixed sequence of headings.
+			</p>
+			<p>
+			Please let us know whether you agree or disagree with this characterization of research. Is this something you recognize? Is it helpful? What other elements of research should be accounted for in such a framing?
+			</p>
+		</div>
+        <div style="margin-bottom: 1em">
+		  <epc:phrase ref="contact-footer"/>
+		</div>
+
+        <p><small><i>Last updated 16 September 2025</i></small></p>
+    </xpage:body>
+</xpage:page>

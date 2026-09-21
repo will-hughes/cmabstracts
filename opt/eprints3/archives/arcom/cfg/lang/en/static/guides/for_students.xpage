@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+
+<xpage:title>For students</xpage:title>
+    <xpage:body>
+        <div>
+<h3>Navigate the landscape of construction management research</h3>
+<p>CM Abstracts is your essential, curated entry point to the academic literature of Construction Management (CM). In an age of overwhelming information, this database solves a core <strong>relevance problem</strong>, ensuring your research begins with a solid foundation in genuine scholarly work.</p>
+<h4>Why start your search here?</h4>
+<p>While tools like Google Scholar are powerful, they prioritize popularity and broad relevance over disciplinary precision. For CM students, this creates a unique <strong>relevance problem</strong>:</p>
+<ul>
+<li><strong>The vocabulary problem:</strong> Core terms like "construction", "management" and "building" are not exclusive "terms of art". They are used universally; in engineering, business, policy, and everyday language. Therefore, generic searches pull in vast amounts of material from outside the <em>academic CM research conversation</em>.</li>
+<li><strong>The signal-to-noise ratio:</strong> It is easy to be swamped by opinion pieces, industry news, or policy papers instead of peer-reviewed research. However, reliable sources of opinions, analysis and journalism may form a very powerful source of data. Data and literature are not the same thing.</li>
+</ul>
+<p><strong>CM Abstracts directly addresses this relevance problem by providing a curated corpus focused on CM research.</strong> Every entry is drawn from the established CM scholarly literature. While this ensures your starting point is <strong>topically relevant</strong>, it remains your critical task to evaluate the rigour, methodology, and contribution of each source. We save you from the noise of unrelated fields, allowing you to focus your analytical skills on the work that matters within the discipline.</p>
+<h4>How to use this resource to advance your work:</h4>
+<ul>
+<li><strong>Discover research topics and gaps:</strong> Quickly identify emerging themes, unanswered questions, and seminal studies to find a compelling and relevant direction for your thesis or project.</li>
+<li><strong>Accelerate your literature review:</strong> Gain an efficient overview of the "state of the art." Trace the evolution of ideas, identify key authors and landmark papers, and understand methodological approaches specific to CM.</li>
+<li><strong>Refine your search vocabulary:</strong> Use the focused results to identify the precise keywords, index terms, and jargon ("terms of art") used within CM academia. This will make your subsequent broader searches far more effective.</li>
+<li><strong>Build Your bibliography with ease:</strong> Export search results directly into your preferred reference management software (e.g., Zotero, Mendeley, EndNote) to seamlessly organize sources and format citations for your papers.</li>
+</ul>
+<p><strong>Start smart. Use CM Abstracts to ground your academic exploration in the discipline's core research before expanding your search to the wider world of information.</strong></p>
+</div>
+
+        <div style="margin-bottom: 1em">
+		  <epc:phrase ref="contact-footer"/>
+		</div>
+
+        <p><small><i>Last updated 16 September 2026</i></small></p>
+    </xpage:body>
+</xpage:page>
+

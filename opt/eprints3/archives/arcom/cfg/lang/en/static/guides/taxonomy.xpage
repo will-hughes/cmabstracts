@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+
+<xpage:title>Taxonomy</xpage:title>
+    <xpage:body>
+		<div>
+        <p>An introduction to the analytical taxonomy developed for CM Abstracts.</p>
+		</div>
+		<div>
+			<p>
+			This is the third complete revision of the structure of the taxonomy.
+			</p>
+			<p>In construction management (CM) research, as in most fields, the use of keywords is inconsistent. Authors are usually free to assign their own keywords, often without guidance, leading to wide variation in terminology. While full-text search can compensate in part, it returns large volumes of loosely related content, reflecting the unstructured nature of keyword use across journals and disciplines.
+			</p>
+			<p>
+			This site introduces a structured and evolving index of terms tailored specifically to this applied and interdisciplinary field. Its purpose is to support the organization and discovery of research content through a consistent set of words; referred to here as <em>index terms</em>.
+			</p>
+			<p>
+			Each index term is classified according to three main dimensions, with Lookup words used to allocate each record within the three dimensions:
+			</p>
+			<ul>
+				<li>
+				<strong>Topics:</strong> Areas of specific practical or applied expertise (e.g., risk management, digital applications, research practice, sustainability). These are activities that are amenable to study.
+				</li>
+				<li>
+				<strong>Subject:</strong> Academic lenses through which topics are studied. These are areas of academic expertise applied to problems defined in topic areas (e.g., economic analysis, sociology, contract law, organisational behaviour).
+				</li>
+				<li>
+				<strong>Research facet:</strong> The functional role of the term in a research project (e.g., object (phenomenon), conceptual framework, analytical technique).
+				</li>
+				<li>
+				<strong>Lookup word:</strong> To match text to index terms, lookup words are used. These are almost always the same as index terms but also allow for control of synonyms and word-stemming.
+				</li>
+			</ul>
+			<p>
+			This classification arises from a large-scale analysis of the titles, abstracts, and keywords of journal papers published over more than four decades. The list has been refined and expanded using co-word analysis tools (initially VOSviewer) and supplemented by data from doctoral theses, where keywords are often missing. The first stage (v1) involved identifying frequently used words and grouping them together into appropriate subjects. This led to the second stage (v2) in which domains of knowledge were used as primary categories, split into subjects of study, then index words. However, this resulted in a very difficult structure that depended on an overly constrained arrangement of domains of knowledge. This stage of development (v3) takes a pragmatic approach that is very similar to the way that many empirical research papers come about: first an area of practical concern in CM is identified, then the conceptual lens through which it is characterized is developed, leading (whether implicitly or explicitly) to a theoretical framing. The concepts mobilized in such framing have become the index terms in this implementation.
+			</p>
+			<p>
+			While there are various classification systems available to those who catalogue libraries and other generic collections of knowledge, a specialised area like ours requires a more specific approach. Generic classifications are based on philosophical study around the structure of knowledge. But the aim of this metadata catalogue is not the same. Rather than deriving some overarching definition of CM to be imposed on the area, we have extracted from the metadata the words that are being used by those who do the research. These words and terms come about because of what researchers choose to focus on and how they explain themselves, especially in relation to what vocabulary they use. And their vocabulary is heavily influenced by the University department they are in or have studied in, and by the journals they seek to publish in. That is, they self-select their own group, whether intentionally or not, by the vocabulary they use. So this classification is more about trying to identify emergent areas of vocabulary, rather than imposing a top-down view. This makes it both subjective and amenable to change.
+			</p>
+			<p>
+			The taxonomy holds nearly more than 6,000 index terms. Behind them sits a slightly larger set of lookup terms, the words as they actually appear in the CM literature, including variant spellings and alternative phrasings. Each lookup term points to an index term, which is how the language of the literature resolves to a consistent set of words and phrases. Currently, homonyms cannot be processed effectively, as context is required to interpret their meaning, so word-pairs may be used instead. Generally, homonyms are avoided at the current stage of development.
+			</p>
+			<p>
+			This catalogue is an application of established theory. It belongs to the field of knowledge organization, within library and information science.
+			</p>
+			<p>
+			Three ideas underpin the work. <em>literary warrant</em> is the principle that index terms should be taken from the literature itself rather than imposed in advance, set out by Hulme (1911). <em>Faceted classification</em>, developed by S. R. Ranganathan (1933) and carried forward by the British Classification Research Group (1955), indexes work on several independent facets rather than forcing it into a single tree. <em>Domain analysis</em>, formulated by Hjørland and Albrechtsen (1995), treats a field as a community of discourse and builds its organizing vocabulary by studying how that community writes.
+			</p>
+			<p>
+			Specific sources were used to normalize particular kinds of term, while avoiding the imposition of a structure. Country names follow the international standard, ISO 3166. Roles and occupations draw on published research into construction project terminology (Hughes and Murdoch 2001), augmented by the UK’s Standard Occupational Classification (Office of National Statistics 2020), which aligns with the international standard. The academic subjects were checked against the UK classification of higher education subjects. Usage comes first, and the authoritative sources are used only to clarify and complete what has been picked up in the analysis of the catalogue. The Library of Congress Subject Headings were explored and set aside as too rigid and too hierarchical for evolving, practice-based language.
+			</p>
+			<p>
+			Taking the vocabulary of one field from the words its researchers use is a practical application of domain analysis. The catalogue is the result of applying a recognized method to a field that the generic schemes serve poorly.
+			</p>
+			<p>
+			Please follow the links (in the navigation bar at the top of the page) for more details on the Topics that are represented in this metadata catalogue and the Subjects that are applied to them. 
+			</p>
+			<hr />
+			<h3>
+			References
+			</h3>
+			<p>
+			Classification Research Group (1955) 'The need for a faceted classification as the basis for all methods of information retrieval', <em>Library Association Record</em>, 57(7), pp. 262–268.
+			</p>
+			<p>
+			HESA, Higher Education Classification of Subjects, available at https://www.hesa.ac.uk/support/documentation
+			</p>
+			<p>
+			Hjørland, B. and Albrechtsen, H. (1995) 'Toward a new horizon in information science: domain-analysis', <em>Journal of the American Society for Information Science</em>, 46(6), pp. 400–425.
+			</p>
+			<p>
+			Hughes, W. and Murdoch, J. R. (2001) <em>Roles in Construction Projects: Analysis and Terminology</em>. Birmingham: Construction Industry Publications. ISBN 1852638982, available at https://centaur.reading.ac.uk/4307/
+			</p>
+			<p>
+			Hulme, E. W. (1911) 'Principles of book classification', <em>Library Association Record</em>, 13, pp. 354–358, 389–394 and 444–449.
+			</p>
+			<p>
+			ISO 3166:2020, Codes for the representation of names of countries and their subdivisions.
+			</p>
+			<p>
+			Office of National Statistics (2020) Standard Occupational Classification, available at https://www.ons.gov.uk/methodology/classificationsandstandards/standardoccupationalclassificationsoc.
+			</p>
+			<p>
+			Ranganathan, S. R. (1933) <em>Colon Classification</em>. Madras: Madras Library Association.
+			</p>
+			</div>
+			
+		<div style="margin-bottom: 1em">
+		  <epc:phrase ref="contact-footer"/>
+		</div>
+
+        <p><small><i>Last updated 16 September 2026</i></small></p>
+    </xpage:body>
+</xpage:page>

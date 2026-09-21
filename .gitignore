@@ -1,0 +1,4 @@
+*.bak
+*~
+database.pl
+z_secrets.pl

@@ -1,0 +1,1 @@
+$c->{flavour} = 'pub';

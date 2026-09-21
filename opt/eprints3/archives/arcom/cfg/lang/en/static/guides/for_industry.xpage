@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+
+<xpage:title>For industry professionals</xpage:title>
+    <xpage:body>
+        <div>
+<h3>Access the evidence. Inform your practice</h3>
+<p>You know that robust research underpins innovation, risk management, and strategic advantage. The challenge is finding it. CM Abstracts provides <strong>direct, paywall-free access</strong> to the distilled knowledge of Construction Management research. Get a quick, authoritative overview of what the academic world has discovered, without needing to become an academic.</p>
+<h4>The industry challenge: From information overload to insight</h4>
+<p>As a professional, you value evidence but lack the time to sift through journals. Generic web searches drown you in unfettered opinion and unvetted content. This database solves that by offering <strong>curated, peer-reviewed abstracts;</strong> the essence of the research; organized for immediate use. Trust the academic gatekeeping process; we’ve done that filtering for you.</p>
+<h4>How to use this resource strategically</h4>
+<ul>
+<li><strong>For evidence-based practice and problem-solving:</strong> Facing a specific challenge, be it procurement, digital adoption, sustainability, etc., use the <strong>Browse</strong> feature. Select relevant taxonomy terms to instantly see a focused list of research abstracts. Quickly scan findings and methodologies to ground your decisions in documented evidence, not just convention.</li>
+<li><strong>For continuous learning and innovation scouting:</strong> Stay ahead of the curve. Browse emerging topics to <strong>identify new methods, technologies, and conceptual frameworks</strong> entering the field. Use this as a radar for trends that may impact your projects or strategy in the coming years.</li>
+<li><strong>For strategic foresight and business development:</strong> Understand the broader trajectories of the industry. Analyse where significant academic attention is being paid (e.g., modular construction, circular economy, safety culture) to anticipate future client demands, regulatory shifts, and market opportunities.</li>
+</ul>
+<h4>Why start with the ‘Browse View’?</h4>
+<p>The <strong>hard work of curation and keyword mapping is already done</strong>. Instead of guessing search terms, use the taxonomy as a structured menu of industry issues and research concepts. It translates your practical concerns into the language of academia, delivering a precise set of relevant abstracts in seconds.</p>
+<h4>The value of the abstract</h4>
+<p>Unless you are doing a critique, you rarely need the full paper. A well-written abstract contains the <strong>research question, core method, key findings and conclusion</strong>. This is exactly what is needed to grasp a concept's validity and potential application. This database is built on that principle, giving you the signal without the noise.</p>
+<h4>A bridge between research and practice</h4>
+<p>CM Abstracts is more than a database; it’s a <strong>translation tool</strong>. It connects the practical intelligence of industry with the rigorous, tested knowledge of academia. Empower your practice with the confidence that comes from being informed by the latest, most relevant research in your field.</p>
+</div>
+
+        <div style="margin-bottom: 1em">
+		  <epc:phrase ref="contact-footer"/>
+		</div>
+
+        <p><small><i>Last updated 16 September 2026</i></small></p>
+    </xpage:body>
+</xpage:page>

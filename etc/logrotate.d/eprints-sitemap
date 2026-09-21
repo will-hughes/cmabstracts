@@ -1,0 +1,9 @@
+/opt/eprints3/var/log/sitemap.log {
+    monthly
+    rotate 6
+    compress
+    missingok
+    notifempty
+    su eprints eprints
+    copytruncate
+}

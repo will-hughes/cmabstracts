@@ -1,0 +1,1 @@
+This folder contains that default.xml that is actually used

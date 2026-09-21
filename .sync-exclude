@@ -1,0 +1,9 @@
+*.bak
+*~
+database.pl
+z_secrets.pl
+/bin/taxindex_*_20*
+/bin/new_records.txt
+/static/sitemap_eprints.xml
+*.tmp
+

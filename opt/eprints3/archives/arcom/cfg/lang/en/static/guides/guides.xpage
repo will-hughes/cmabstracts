@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+
+<xpage:title>Guides for users</xpage:title>
+    <xpage:body>
+        <div>
+            <p>Here you will find a short list of helpful guides that explain how this site helps different potential user groups.</p>
+        </div>
+        <div>
+            <p>The following guidance is available and can also be accessed from any point in the site from the navigation bar at the top of the page:</p>
+            
+        <ul>
+            <li><a href="/guides/for_students.html">For students</a></li>
+            <li><a href="/guides/for_supervisors.html">For supervisors</a></li>
+            <li><a href="/guides/for_researchers.html">For researchers</a></li>
+            <li><a href="/guides/for_stewards.html">For academic stewards</a></li>
+            <li><a href="/guides/for_policy.html">For research policy-makers</a></li>
+            <li><a href="/guides/for_industry.html">For industry professionals</a></li>
+
+        </ul>
+                     
+        <p>All comments and suggestions will be gratefully received.</p>
+        </div>
+
+        <div style="margin-bottom: 1em">
+		  <epc:phrase ref="contact-footer"/>
+		</div>
+        <p><small><i>Last updated 8 February 2026</i></small></p>
+    </xpage:body>
+</xpage:page>

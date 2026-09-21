@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /cgi/
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+Sitemap: https://cmabstracts.com/sitemap_eprints.xml

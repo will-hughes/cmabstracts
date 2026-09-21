@@ -1,0 +1,109 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+<xpage:title>About the <epc:phrase ref="archive_name" /></xpage:title>
+<xpage:body>
+
+<h2>Purpose</h2>
+
+	<p>
+	CM Abstracts is a curated and indexed catalogue of construction management research. It holds the metadata (titles, authors, abstracts and keywords) for around 30,000 records. These are the contents of selected refereed journals and doctoral theses from around the world. Every record is indexed against a structured vocabulary of around 7,500 index terms, which have been derived from the vocabulary used by these authors.
+	</p>
+	<p>
+	This page explains what the catalogue does and how it is organized.
+	</p>
+
+<h3>The discovery problem</h3>
+
+	<p>
+	Construction management (CM) is defined here as the application of the social sciences to the construction sector. Of course, the technology and engineering of construction are served well in existing catalogues and indexes. But the management, organizational, economic and social dimensions of the sector are often dissipated in indexes and catalogues that are based on traditional classifications of knowledge. For example, a paper about sociological aspects of design team meetings in a construction project could be classified under sociology, design methods, architectural practice, construction or management.
+	</p>
+	<p>
+	The vocabulary of CM research depends on words that happen to be widely used in everyday conversation and in the many disciplines applied in this area. Words like construct, build, design, trust, risk, communication; each of these has multiple connotations that are widely applicable and occur in many different disciplines. This explains why CM research can be difficult to discern in search results using the usual tools. A keyword or full text search in online searches returns thousands of records that use the words but are not part of this field..
+	</p>
+	<p>
+	Generic schemes classify  knowledge by scientific discipline, and they are structured for broad areas of study, in relation to all of human knowledge. A subject like CM is a multi-disciplinary application in a specific, empirical field. For an indication of scale, it is interesting to look at the British Library catalogue of nearly 600,000 UK doctoral theses. Our analysis of the titles and abstracts found that around 0.5% of theses are in the purview of CM. Filtering to find those that are indeed in this field is a time-consuming and specialized task. 
+	</p>
+	<p>
+	The discovery problem addressed here is inherent in our vocabulary. It is a characteristic that follows from the nature of the language we use. Research that is difficult to find by its vocabulary needs specific tools.</p>
+
+
+<h3>General search engines are not the answer</h3>
+
+	<p>
+	A general search engine is designed to return as many results as it can. It finds everything that uses the search terms and leaves judgement about their relevance to the user. The underlying aim of modern search engines is to focus on popularity and frequency. While this may suit high-volume, mainstream topics, it works against a specialist research area. The strategy of general search engines is powerful for many purposes. This catalogue does not compete with them.
+	</p>
+	<p>
+	The aim here is not to be exhaustive. We draw on a selected range of core journals and, thus, begin with judgement before searches are done, rather than after. Within that defined body of work, a controlled vocabulary gathers synonyms and variant spellings under a single index term. A query returns CM research that uses the vocabulary of a topic. A search engine returns anything from any field that uses the search words. This is how the catalogue presents focused results on any given question. Moreover, from the evidence of this site’s usage statistics, generic search engines like Google Scholar are accessing this catalogue in a way that subtly raises the profile of our research, making it more likely to be accessed by a broader range of people in the long run. This is a subtle but important shift from having a field shaped by popularity to influencing the shape of our field in the results from major search engines.
+	</p>
+	<p>
+	The coherence of this catalogue is important. The boundaries we have imposed on it relate to three aspects: the journals chosen, the index terms identified and the omission of work ranging across wider journals. This means that the catalogue can never be complete. Comprehensiveness is not as important as offering a clear entry point into the literature. This improves the odds of ultimately finding the right research and provides a more useful starting point for new research or for a practitioner’s question.
+	</p>
+
+<h3>The organization of the catalogue</h3>
+
+	<p>
+	The catalogue is based on index terms and these are classified into three related structures.
+	</p>
+	<p>
+	Topics group the index terms by the practical problems and industry contexts that CM research addresses. See the <a href="/guides/topics.html">guide to Topics</a> or <a href="/view/topic/">browse them</a>.
+	</p>
+	<p>
+	Subjects group them by the academic lenses brought to bear on those problems: nearly 500 disciplinary specialisms, from economics and law to organization studies and urban studies, that researchers use to investigate a topic. See the <a href="/guides/subjects.html">guide to Subjects</a> or <a href="/view/subject/">browse them</a>.
+	</p>
+	<p>
+	Subjects are the interface between the catalogued research and the wider academic world. CM research does not work in isolation. It draws on established traditions and engages with them, and the relation is more than mere "borrowing". Concepts are not only applied but tested and developed through empirical work, and that work can feed back into the disciplines it engages. Because Subjects are named in the vocabulary those disciplines use, a reader who knows a term meets it under the name that its own field would recognize, and can follow it into the wider literature. The catalogue builds no explicit cross-reference. The shared vocabulary is what allows the connection to run in both directions.
+	</p>
+	<p>
+	Descriptive scope is a separate indicator, with the purpose of indicating the completeness of the research description in each abstract. See the <a href="/guides/dscope.html">guide to descriptive scope</a>.
+	</p>
+
+<h3>Holding evidence and theory together</h3>
+
+	<p>
+	The best research in this field is both grounded in evidence and informed by theory. Much of it is gathered first-hand  from a construction project, from real people and from directly observed activity. A great deal also draws on secondary data, and that work is held in equal regard. Whatever way the evidence is obtained, the research is directed by the body of theory it draws on for the concepts that it tests. Any field that studies practical human activity must deal with evidence and theory together. That is a demanding task, and a reason that the literature maybe difficult to organize.
+	</p>
+	<p>
+	The aspects of Topics and Subjects help to reveal what a piece of work examined and which ideas it worked with, respectively. And descriptive scope shows which elements of empirical research each record's description reflects.
+	</p>
+	
+
+<h3>Who is it for?</h3>
+
+	<p>
+	The catalogue is for anyone who needs to find applied research in this area without wading through everything that shares its everyday vocabulary. This includes researchers at every stage, junior or experienced, working inside the field or approaching it from another discipline. It includes students and doctoral candidates learning to place their work in a literature. And it includes practitioners, who often struggle to see the practical use buried in theoretically dense papers. The same obstacle stands in front of all of them, and the catalogue removes it. Guidance for each of these readers is collected in the guides.
+	</p>
+	<p>
+	The catalogue does not do the most important work. Reading widely, judging quality and drawing the work together are the demanding parts of scholarship, and this catalogue leaves them untouched. What it removes is wasted effort in discovery. A reader who locates a paper but does not perceive which theoretical vocabulary it draws on misses part of what the paper is doing. Making that connection shows which vocabularies and traditions the research has worked with.
+	</p>
+<h3>Context</h3>
+	<p>Construction management as an academic field has a long history that may not be obvious. The literature goes back earlier than the journals that currently delineate the field. The <a href="/context.html">context  page</a> sets out that background and explains why this catalogue is scoped as it is.
+	</p>
+<hr />
+<h3>Frequently-asked questions</h3>
+<ul>
+<li><a href="/info_cm_meaning.html">What do we mean by construction management?</a></li>
+<li><a href="/info_google_scholar.html">Wht not just use Google Scholar?</a></li>
+<li><a href="/info_choosing_papers.html">How are papers and theses chosen for inclusion?</a></li>
+<li><a href="/info_research_quality.html">Why include research of variable quality?</a></li>
+<li><a href="/info_author_initials.html">Why are the given names of so many authors initialized?</a></li>
+<li><a href="/info_author_orcid.html">Why not add ORCID identifiers to these records?</a></li>
+<li><a href="/info_constituents_research.html">What constitutes a research paper?</a></li>
+<li><a href="/info_author_keywords.html">How should I choose keywords when I am submitting a paper?</a></li>
+<li><a href="/info-acronyms.html">Should I include acronyms in my title and keywords?</a></li>
+</ul>
+
+<h3>Contents of the catalogue</h3>
+<p>The journals included in this catalogue are listed on the <a href="/view/journal_volume/">Browse by Journal</a> screen. Papers are included by journal rather than individually, so the journal list determines what is covered. We are also collating PhD theses from around the world that help form the underpinning to new developments and insights; if your thesis is not yet included, we would be glad to hear from you. How material is selected, and the other <a href="/policies.html">policies that apply to this site</a>, are explained separately.</p>
+
+<h3>Additional journals</h3>
+<p>If you are the publisher or editor of a journal that you believe should be included in this database, we would be glad to consider your suggestion. To help us assess it fairly, we ask that you provide a brief analysis showing how often articles from your journal cite (and are cited by) publications already in the database. We can offer guidance on how to compile this information using tools such as Scopus. Once your analysis is ready, please send it to the email address below. We will review any request in the context of the broader citation landscape and consider its relevance to the field.</p>
+
+
+		<div style="margin-bottom: 1em">
+			<epc:phrase ref="contact-footer"/>
+		</div>
+
+    <p><small><i>Last updated 15 September 2026</i></small></p>
+</xpage:body>
+</xpage:page>

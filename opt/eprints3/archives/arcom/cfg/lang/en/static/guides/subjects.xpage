@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+
+<xpage:title>Subjects</xpage:title>
+    <xpage:body>
+
+        <div>
+			<p>
+			Subjects are the academic lenses used to examine the real-world problems captured by the Topics. Indeed, this highlights one of the problems of using regular search engines for this kind of work: the appropriate academic lens, whether broad or specific, is needed in conjunction with the empirical topic of the research being sought. 
+			</p>
+			<p>
+			The index terms in this catalogue, drawn from titles, abstracts, and keywords, are allocated to subjects. These show which areas of scholarship are brought to bear on practical problems.
+			</p>
+			<p>
+			Many of these subjects will be familiar from degree programmes and textbooks, as they represent the broad and specific lenses used in construction-related research. Examples include contract law, organizational behaviour, sustainability science and qualitative research methods. These examples are illustrative only: the full taxonomy contains more than 500 subjects.
+			</p>
+			<p>
+			The Subjects are not arranged into a hierarchy. They sit as a flat list, at whatever level of grain the research itself uses. Broad fields and specific approaches appear side by side, rather than one being filed within another. Economics is a subject, and so are economic theory, economic models and economic analysis. A reader who wants the wide view can take it, and a reader who wants a particular approach can find that instead. Keeping the list flat also lets the catalogue show how much work draws on an area. Economic analysis, for instance, appears far more often than the common assumption that economics is largely absent from this literature would suggest.
+			</p>
+			<p>
+			The list of subjects arises from the items that are catalogued, so the best way to see this list of subjects is to browse the catalogue by <a href="/view/subject">subject</a>.
+			</p>
+        </div>
+
+        <div style="margin-bottom: 1em">
+		  <epc:phrase ref="contact-footer"/>
+		</div>
+
+        <p><small><i>Last updated 15 June 2025</i></small></p>
+    </xpage:body>
+</xpage:page>
+

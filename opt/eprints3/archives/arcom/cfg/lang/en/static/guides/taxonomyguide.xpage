@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+
+<xpage:title>Guides for using the taxonomy</xpage:title>
+    <xpage:body>
+        <div>
+            <p>Here you will find details of how this database is structured in relation to a systematic taxonomy. While the taxonomy has been derived and structured by people, the application of it is automatic. A large table holds index terms, topics, subjects, research facets and lookup words. The lookup words are used to automatically match words in the titles, abstracts and author keywords of each item, and where there is a match, the corresponding index terms, etc, are applied to the record. The use of lookup words helps to deal with synonyms and spelling variations. If a record carries terms that seem inappropriate, please let us know so that we can adjust specific words in relation to whether we are using the right ones, and whether they associated with right subjects and topics.</p>
+        </div>
+        <div>
+            <p>The following guidance is available and can also be accessed from any point in the site from the navigation bar at the top of the page:</p>
+            
+        <ul>
+            <li><a href="/guides/taxonomy.html">A description of the taxonomy</a></li>
+            <li><a href="/guides/topics.html">The first level: Topics</a></li>
+            <li><a href="/guides/subjects.html">The second level: Subjects</a></li>
+            <li><a href="/guides/dscope.html">Descriptive scope</a></li>
+
+        </ul>
+                     
+        <p>All comments and suggestions will be gratefully received.</p>
+        </div>
+
+       <div style="margin-bottom: 1em">
+		  <epc:phrase ref="contact-footer"/>
+		</div>
+
+        <p><small><i>Last updated 16 September 2026</i></small></p>
+    </xpage:body>
+</xpage:page>

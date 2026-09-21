@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE phrases SYSTEM "entities.dtd">
+<epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
+
+  <!-- Editorial content phrases for CM Abstracts -->
+  <!-- After editing, run: generate_static arcom, epadmin reload arcom, systemctl restart apache2 -->
+
+  
+  <!-- Actually, the best thing is to do all this in the Phrase Editor or by editing zz_webcfg.xml -->
+
+				
+</epp:phrases>

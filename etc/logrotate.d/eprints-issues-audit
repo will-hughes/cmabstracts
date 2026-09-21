@@ -1,0 +1,9 @@
+/opt/eprints3/var/log/issues_audit.log {
+    weekly
+    rotate 4
+    compress
+    missingok
+    notifempty
+    copytruncate
+    su eprints eprints
+}

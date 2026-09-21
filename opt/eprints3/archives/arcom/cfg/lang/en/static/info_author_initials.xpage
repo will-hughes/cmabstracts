@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+
+<xpage:title>Why are the given names of so many authors initialized?</xpage:title>
+    <xpage:body>
+		<div>
+			<p>The records in this catalogue come from publishers' bibliographic data and from the abstracts published with each paper. The usual convention in the source data is to give an author by surname and initials, and that is the form that reaches the catalogue. When a publisher supplies an author as "Smith, J." that is what gets stored. The reduction to initials is not a decision made here. It is simply what the source contains.
+			</p>
+			<p>Full forenames would be very helpful. Two authors who both appear as "Smith, J" might be two different people, or they might be one person who sometimes published as "Smith, J A". The ambiguity is awkward, and it is problematic for citation analysis and for following an individual's work across a career.
+			</p>
+			<p>The catalogue cannot overcome that ambiguity reliably on its own. The forename is often missing from the source altogether, and filling it in by guesswork would create errors worse than the gap it was meant to close. The place to deal with it is upstream, where the work is written and registered. That is what ORCID was built for. An author identifier links the work to the person whatever form the name takes, and it does so at the point where the answer is actually known.
+			</p>
+			<p>
+			So the initials are a reflection of the underlying record rather than a choice. An author identifier, where one exists, carries the information the initials cannot. Without one, the most reliable record is the one the source will actually support.
+			</p>
+		</div>	
+		<div style="margin-bottom: 1em">
+		  <epc:phrase ref="contact-footer"/>
+		</div>
+
+        <p><small><i>Last updated 16 June 2026</i></small></p>
+    </xpage:body>
+</xpage:page>

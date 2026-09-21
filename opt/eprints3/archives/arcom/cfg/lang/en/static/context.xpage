@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+<xpage:title>About the <epc:phrase ref="archive_name" /></xpage:title>
+<xpage:body>
+
+<h3>Context</h3>
+	<p>
+	Construction management as a named academic field in UK emerged in the early 1980s. ARCOM was inaugurated in 1984, one year after the journal <em>Construction Management and Economics</em>. Research Council-funded projects in this period helped establish the empirical and theoretical foundations of the field in the UK.
+	</p>
+	<p>
+	Journal literature relevant to construction existed well before then, but it had a different character. The UK journal <em>Building Research &amp; Information</em>, originally titled <em>Building Research &amp; Documentation</em>, carried technological reports drawn from the network of national government-funded building research stations that each major country once maintained. In the United States, the ASCE <em>Journal of Construction Engineering and Management</em> goes back considerably further. Both were rooted in engineering and technology, and the management they addressed tended to be  quantitative, operational research rather than social scientific. The field that took shape in 1983 was purposefully evolving into the study of construction as a social, economic and organizational activity. Prior to this, it had been a subset of vocationally oriented departments of architecture, engineering, surveying or building. In many ways, it still is.
+	</p>
+	<p>
+	The questions that define the area had also been studied for decades, within fields that examine industrial organization, economics, law and management at the level of whole industries. Industrial economics asks how firms in an industry compete, contract and organize production. Contract law addresses the allocation of risk and obligation between parties. Management research examines how organizations coordinate complex work. Communication research studies how information flows and fails. Construction is one of the world's largest industries, and it has always been a subject of serious inquiry within these traditions. That body of work belongs to this catalogue, alongside everything published under the field's current name.
+	</p>
+	<p>
+	Alongside the academic literature sits a substantial body of grey literature: government and industry reports produced outside conventional commercial publishing. The Tavistock Institute's study of communications in the building industry, the Banwell Report, the Wood Report, the Latham Report, the Egan Report and Australia's Cole Report are not peripheral documents. Several of them shaped research agendas, directed funding and reoriented professional practice. They were commissioned because construction was seen as significant enough, economically and socially and politically, to warrant rigorous investigation at the highest level. They belong to the intellectual lineage of the field as much as any journal article.
+	</p>
+	<p>
+	The journal literature itself tells a story of disciplinary maturation. Specialist journals in construction management have multiplied over forty years. Some have ceased publication as editors moved on or publishers withdrew, and their contents are no longer reliably accessible through commercial databases.
+	</p>
+	<p>
+	No database search covers all of this. Academic work from the parent disciplines was never indexed under "construction management" and never will be. Grey literature falls outside the scope of every major repository. Defunct journals are maintained inconsistently if at all. A researcher who relies on a database search will find the named discipline in its current form. They will not find the foundations it was built on.
+	</p>
+	<p>
+	In this catalogue, we seek to span the entire history. A field cannot be understood without access to its own intellectual lineage.
+	</p>
+	
+
+
+			<p>
+				-------------------------------------------
+			</p>
+
+<h3 id="contact-information">Contact Information</h3>
+<p>If you have any questions about the database, or suggestions for improving it, please get in touch. We welcome feedback from researchers, students, practitioners, and anyone with an interest in construction management research; including anyone involved in cataloguing, indexing, or managing similar databases in other topic areas.</p>
+<p>Any correspondence concerning this catalogue should be sent to <a href="mailto:{$config{adminemail}}"><epc:print expr="$config{adminemail}" /></a>.</p>
+
+        <p>
+			<small>
+				<i>Last updated 14 June 2026</i>
+			</small>
+		</p>
+
+</xpage:body>
+</xpage:page>

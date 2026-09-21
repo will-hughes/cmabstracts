@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+
+<xpage:title>For supervisors</xpage:title>
+    <xpage:body>
+        <div>
+<h3>Guide research from phenomenon to scholarly conversation</h3>
+<p>A core challenge in supervision is bridging the gap between a student's initial interest, often framed around a practical industry phenomenon, and the disciplined world of academic research. Students frequently arrive with broad, web-informed searches that generate results lacking in theoretical framing or methodological rigour. CM Abstracts is designed to be a <strong>collaborative tool for scoping and grounding</strong> these early discussions.</p>
+<h4>The foundational challenge: From interest to inquiry</h4>
+<p>Students must learn to translate a practical interest into a viable scholarly inquiry. The primary obstacle is the <strong>relevance problem</strong>: generic search terms like "health and safety" or "sustainability" pull in material from medicine, law, policy, and corporate reporting, obscuring the specific CM research literature. This leaves students frustrated and supervisors repeating, "This isn't academic research."</p>
+<p>This database directly addresses that problem, allowing you to focus the conversation on <strong>disciplinary relevance first</strong>.</p>
+<h4>Using the database as a scaffolding tool</h4>
+<p>Treat the search interface as a live, collaborative filter. Use initial supervision meetings to:</p>
+<ul>
+<li><strong>Test and refine keywords in real-time:</strong> Enter the student's proposed terms. The results instantly demonstrate what constitutes "CM research" on that topic, moving the discussion from vague interest to defined scholarly vocabulary.</li>
+<li><strong>Evaluate empirical study completeness with research elements:</strong> Explain that the descriptive scope is an indicative tool that describes which facets (Phenomenon, Concept, Theoretical framing, Empirical technique, Analytical technique) are discernible in a paper's abstract. This can help students quickly identify papers that present a more fully described empirical study, aiding in their critical selection of sources.</li>
+<li><strong>Introduce critical evaluation early:</strong> With a <strong>relevantly filtered corpus</strong>, you can quickly shift the conversation from "finding something" to <strong>evaluating what is found</strong>. Point to examples of strong conceptual framing, clear methods, and weak contributions within the same search results. This teaches discernment using material that is, at least, topically pertinent.</li>
+<li><strong>Provide a positive, actionable start:</strong> Conclude a scoping session by exporting a shortlist of core references. This gives the student a concrete, academically relevant foundation from which to begin their critical reading and literature review, replacing vague instructions with a directed first step.</li>
+</ul>
+<h4>Clarifying rigour vs. relevance</h4>
+<p>The database solves the <strong>relevance filter;</strong> it ensures you and your student are looking at the CM research conversation. It does <strong>not</strong> apply a quality filter. This is a pedagogical strength. It allows you to mentor the essential skill of critical appraisal within a controlled, discipline-specific environment. The student learns to distinguish rigorous, theory-driven work from weaker studies, but they learn this using a dataset where the signal-to-noise ratio is already vastly improved.</p>
+<h4>Setting the journey on a firm footing</h4>
+<p>CM Abstracts does not do the student's work for them. Instead, it efficiently aligns the start of their research journey with the scholarly pathways of the discipline. It transforms initial supervision from corrective and frustrating to constructive and directional. You equip them not just with a few references, but with a <strong>method for navigating academic literature</strong>, preparing them for a more fruitful and independent research process.</p>
+</div>
+
+        <div style="margin-bottom: 1em">
+		  <epc:phrase ref="contact-footer"/>
+		</div>
+
+        <p><small><i>Last updated 16 September 2026</i></small></p>
+    </xpage:body>
+</xpage:page>

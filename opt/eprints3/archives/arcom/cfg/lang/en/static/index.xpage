@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="no"  ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+
+<xpage:title>Welcome to <epc:phrase ref="archive_name" /></xpage:title>
+<xpage:body>
+
+
+<dl id="ep-homepage-menu" title="Homepage Menu">
+
+	<dt>
+		<h3>
+			A curated catalogue of construction management research
+		</h3>
+	</dt>
+	<dd>
+		This is a freely available catalogue of construction management research. You do not need an account to use it. Creating one lets you save searches, but nothing here is behind a login. 
+	</dd>
+		
+	<dt id="search-repository">
+		<h4 style="margin-top: 0">
+			<a href="{$config{rel_cgipath}}/search/advanced">Advanced search</a>
+		</h4>
+	</dt>
+		<dd>
+			Search the catalogue using a full range of fields. See the <a href="/help/">help page</a> for guidance. Alternatively, use the basic search field at the top right corner of the page for a quick search of the database.
+			</dd>
+		 
+		   <dt id="about-this-repository">
+			<h4 style="margin-top: 0">
+				<a href="{$config{rel_path}}/information.html">
+					About the CM Abstracts
+				</a>
+			</h4>
+	</dt>
+	<dd>
+		<b>Find out what this website is, why we are doing it, how we are doing it and how to get involved. If you are new here, this is the place to start.</b>
+	</dd>
+
+	<dt id="browse-repository">
+		<h4 style="margin-top: 0">
+			<a href="{$config{rel_path}}/view/">
+				Browse catalogue
+			</a>
+		</h4>
+	</dt>
+	<dd>
+		Browse items in the catalogue by <a href="{$config{rel_path}}/view/year/">year</a>, <a href="{$config{rel_path}}/view/creators/">author</a>, <a href="{$config{rel_path}}/view/journal_volume/">journal</a>, <a href="{$config{rel_path}}/view/thesis/">thesis</a> or taxonomic indexes. 
+		<p><strong>Taxonomic Indexes</strong></p>
+			<p>
+				The taxonomic indexes are based on an analysis of all the words in titles, abstracts and keywords of the records in this database. A regularized set of more than 6,000 index terms is derived from this vocabulary.
+			</p>
+		  <ul>  
+			<li>These <a href="{$config{rel_path}}/view/iterm/">index terms</a> can be browsed alphabetically.</li>
+			<li>The index terms are grouped into approximately 500 <a href="{$config{rel_path}}/view/subject/">subjects</a>, representing the lenses through which we study construction management.</li>
+			<li>The abstracts are also grouped into 33 <a href="{$config{rel_path}}/view/topic/">topics</a>, which are the common practical issues that are the focus of CM research.</li>
+			<li>Index terms are also categorized into five research facets, corresponding to the five elements of empirical research. The <a href="{$config{rel_path}}/guides/dscope.html">descriptive scope</a> of each record shows how many of those elements its title, abstract and keywords reflect.</li>
+		  </ul>
+	</dd>
+
+</dl>
+
+</xpage:body>
+</xpage:page>
+
+
+

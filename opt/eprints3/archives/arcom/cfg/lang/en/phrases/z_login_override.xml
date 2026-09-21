@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<epp:phrases xmlns:epp="http://eprints.org/ep3/phrase">
+
+  <!-- Main login link shown to public users -->
+  <epp:phrase id="dynamic:not_logged_in">
+    <a href="{$config{userhome}}">Login (Admin Only)</a>
+  </epp:phrase>
+
+  <!-- Page title of login form -->
+  <epp:phrase id="cgi/login:title">Login (Admin Only)</epp:phrase>
+
+  <!-- Internal login screen title -->
+  <epp:phrase id="Plugin/Screen/Login/Internal:title">Login (Admin Only)</epp:phrase>
+</epp:phrases>

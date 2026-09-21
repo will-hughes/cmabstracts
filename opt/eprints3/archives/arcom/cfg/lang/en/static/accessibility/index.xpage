@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+<xpage:title>Accessibility</xpage:title>
+<xpage:body>
+
+<h2 id="accessibility-statement">Accessibility statement for <epc:phrase ref="archive_name" /></h2>
+<p><epc:phrase ref="archive_name" /> is run by <epc:phrase ref="organisation_name" />. We want as many people as possible to be able to use it. For example, that means you should be able to:</p>
+<ul>
+  <li>change colours, contrast levels and fonts</li>
+  <li>zoom in up to 300% without the text spilling off the screen</li>
+  <li>navigate most of the website using just a keyboard</li>
+  <li>navigate most of the website using speech recognition software</li>
+  <li>listen to most of the website using a screen reader (including the most recent versions of JAWS, NVDA and VoiceOver)</li>
+</ul>
+
+<p>We have also tried to make the website text as simple as possible to understand.</p>
+
+<p><a rel="external" href="https://mcmw.abilitynet.org.uk/">AbilityNet</a> has advice on making your device easier to use if you have a disability.</p>
+
+<h3 id="how-accessible">How accessible this catalogue is</h3>
+<p>We know that some parts are not fully accessible. In particular, many of the research documents linked from this catalogue are PDF files, often older ones, that were not prepared with accessibility in mind. These may not work well with screen reader software, may lack document titles or a defined language, and may not reflow neatly when text is enlarged. These documents are produced by their authors and publishers rather than by us.</p>
+
+<h3 id="alternative-format">If you cannot access part of this catalogue</h3>
+<p>If you need information from <epc:phrase ref="archive_name" /> in a different format, please contact us by email at <a href="mailto:{$config{adminemail}}"><epc:print expr="$config{adminemail}" /></a>. We will consider your request and aim to reply within seven working days.</p>
+
+<h3 id="reporting">Reporting an accessibility problem</h3>
+<p>We are always looking to improve the accessibility of <epc:phrase ref="archive_name" />. If you find a problem that is not listed here, or you think we could do better, please tell us by email at <a href="mailto:{$config{adminemail}}"><epc:print expr="$config{adminemail}" /></a>.</p>
+
+<p><em>This statement was last updated on <b><epc:phrase ref="accessibility_statement_last_updated_date"/></b>.</em></p>
+
+</xpage:body>
+</xpage:page>

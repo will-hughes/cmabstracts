@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+
+<xpage:title>Descriptive Scope</xpage:title>
+    <xpage:body>
+        <div>
+<p>Construction Management is a research field with a clear focus. Construction is an industry sector, so research centres on activity within that sector. Management is part of the social sciences, and research in this field draws on many of them, including economics, law and sociology. In practice, the field is defined by what researchers actually study. It is often described as the application of social science to the construction sector, although this is not the whole story.</p>
+
+<p>Applied research is empirical research. This means that, in any particular piece of research, the phenomenon under study is linked to specific activity in or around construction. A study may focus on one or more types of <strong>phenomena</strong>:</p>
+
+<ul>
+	<li>object</li>
+	<li>process</li>
+	<li>role</li>
+	<li>location</li>
+	<li>individual</li>
+</ul>
+<p>Other elements help define any piece of empirical research. A paper or thesis would reasonably be expected to use or develop <strong>concepts</strong> from the literature and to characterize the relationships between them through a <strong>theoretical framing</strong>. The research design would explain which <strong>empirical techniques</strong> are used, and why they were chosen, and which <strong>analytical techniques</strong> process the data. Other parts of a paper, such as results and conclusions, are part of the paper, but a metadata catalogue holds only the titles, abstracts and keywords. In any case, the words used in results and conclusions tend to be closely tied to the specific context of the study, while the metadata tends to use terms that describe broader issues and is therefore more suitable for indexing.</p>
+
+<p>Empirical research, by its nature, involves all five elements: a phenomenon under study, concepts that describe it, a theoretical framing that relates them, empirical techniques that gather evidence, and analytical techniques that process it. A paper that presents itself as empirical research should describe all five. Other kinds of work, such as position papers, conceptual papers and philosophical discussions, are not empirical research and need not contain all five. Because descriptive scope reads only the title, abstract and keywords, a record reflecting fewer than five elements may not be empirical research, may describe empirical research incompletely, or may use vocabulary our taxonomy does not yet hold.</p>
+
+<p>Descriptive Scope works alongside the other two classifications in the catalogue. Subjects define the academic lens or subject area that an index term is associated with. Topics identify the issue in focus for that term. Each index term belongs to one of five facets, and descriptive scope shows which of the corresponding elements a record reflects.</p>
+
+<p>Each index term in the taxonomy is assigned to one of five facets, corresponding to the five elements of empirical research: phenomena, concepts, theoretical framing, empirical techniques and analytical techniques. A record reflects an element when its title, abstract or keywords match at least one index term from that facet. Each record page states how many of the five elements are reflected, and names them. A record that reflects fewer elements is not ranked below one that reflects more.</p>
+
+<p>This is a quick indication of how fully the title and abstract describe an empirical study. It only works if the taxonomy holds the right index terms and they are categorized correctly. So an incomplete scope is not, by itself, a verdict on the paper. It is the result of matching words in the title, abstract and keywords against our list, and a gap can mean more than one thing:</p>
+<ul>
+<li>Most often, it reflects a focused piece of writing. A position paper that develops a concept and builds theory without testing is complete on its own terms, and a record reflecting phenomena, concepts and theoretical framing identifies that focus.</li>
+
+<li>Sometimes it means our list has a gap. For example, a well-theorized paper on the spread of disease in buildings might match no theory term, because its theory is voiced in a vocabulary this corpus does not yet hold. That kind of blank highlights a (perhaps deliberate) gap in our list, not in the paper.</li>
+
+<li>Thirdly, such a gap may point the other way, to a paper sitting at the edge of the field. Appearing in one of the journals we follow does not make a paper a management contribution. These journals also carry technology and engineering papers that make no management claim. A sparse match indicates that a paper about buildings is not necessarily focused on social sciences, such as management.</li>
+</ul>
+<p>The indicator cannot tell these apart. Indexing simply matches words against a list. Ascertaining which of these three explanations applies is a job for a person looking at the paper. We regularly browse the records with incomplete descriptive scopes for exactly this reason, and it is useful work. It turns up well-made position papers and focused practical pieces, it shows where the index terms need extending, and now and then it highlights a record that belongs outside the field. Thus, papers with a sparse match are among the more interesting records, rather than the weakest.</p>
+
+<p>What do you think of this indicator? Could it be helpful? The categorization of the index terms is open to debate, and so is the way we use them. If your paper matches no term under a facet you believe it addresses, that may be a term we should add, or a term we should move to a different facet. Tell us, and we will look at it.</p>
+
+<p>All comments and suggestions will be gratefully received.</p>
+
+</div>
+
+        <div style="margin-bottom: 1em">
+		  <epc:phrase ref="contact-footer"/>
+		</div>
+
+        <p><small><i>Last updated 16 September 2026</i></small></p>
+    </xpage:body>
+</xpage:page>

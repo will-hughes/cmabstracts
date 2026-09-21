@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+
+<xpage:title>What would be best practice for authors choosing their own keywords?</xpage:title>
+    <xpage:body>
+		<div>
+			<p>
+			When submitting papers to journals and conferences, authors a frequently asked to add their own keywords. At that point in the process, no advice is provided about good practice in choosing keywords. These keywords may not intended for indexing, as they are uncontrolled. They will help indexers, and may be used directly. There are several things that authors should consider, as a matter of good practice for long-term discoverability in any archive or database that lists their work:
+			</p>
+			<ul>
+				<li>
+				Do not use the journal's own subject area as a keyword. In a construction management journal, "construction management" adds no discriminatory value. It would have to appear on every paper or none.
+				</li>
+				<li>
+				Do not use "construction industry" unless the paper is genuinely a sector-level economic or industry analysis. A paper that happens to be set within a national construction industry context is not an industry analysis.
+				</li>
+				<li>
+				Do include geographic identifiers (e.g. Nigeria, South Africa) when findings are geographically specific. These are frequently omitted and are genuinely useful for filtering.
+				</li>
+				<li>
+				<b>Do not use acronyms in keywords or titles!</b> <a href="/info-acronyms.html">Acronyms collide</a> across disciplines and even within construction management research: BIM alone is used for British Institute of Management, Building Information Model, Building Information Modelling, and others. A reader searching for one will retrieve papers about another, and a reader searching for another may miss yours entirely. Define acronyms in the body text; do not rely on them to carry meaning in keywords or titles.
+				</li>
+			</ul>
+		</div>
+		<div style="margin-bottom: 1em">
+		  <epc:phrase ref="contact-footer"/>
+		</div>
+
+        <p><small><i>Last updated 13 August 2026</i></small></p>
+    </xpage:body>
+</xpage:page>

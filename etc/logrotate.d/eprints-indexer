@@ -1,0 +1,10 @@
+/opt/eprints3/var/indexer.log {
+    su eprints eprints
+    hourly
+    rotate 24
+    compress
+    missingok
+    notifempty
+    copytruncate
+    maxsize 100M
+}

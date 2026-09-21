@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+
+<xpage:title>How are papers and theses chosen for inclusion?</xpage:title>
+    <xpage:body>
+		<div>
+        <p><em>How we manage the contents of the database</em></p>
+		</div>
+		<div>
+			<p>Journals are chosen by looking at the topics they cover, and focusing on those that contain appropriate topics. When this service was first set up, the key journals in the field were fairly obvious, given their titles. These days, with the ebb and flow of journal titles, coupled with the market decisions of publishers, a more systematic technique is required. The idea that some journals look obviously central and others are obviously not does not help with a large number of marginal titles.
+			</p>
+			<p>Rather than depending on what feels right, we now have access to tools like those in Scopus. There, we can select a journal title and list out all the journals cited from the one in focus, as well as a count of how many cites there are to each journal listed. It is a fairly straightforward task to list source journals in columns and cited journals in rows and do a cross-citation analysis to determine numerically whether a journal is a key journal in this field. This has helped in identifying journals to include and to exclude. Some journals of interest are not listed in Scopus, so the data from those is harvested manually whenever a new issue is published.
+			</p>
+			<p>The journal list is not fixed. If you think a title should be included, or that one currently covered no longer belongs, please say so. Any proposals will be tested against the same cross-citation analysis. And some older journal titles will always be retained for a strong historical record.
+			</p>
+			<p>The search for doctoral theses is more difficult. Department names do not help, for the reasons given above. And they are rarely given in catalogues of theses. Keywords do not help either, as they are not usually included in theses and, even if they were, author-selected keywords are almost random in their application and use and rather redundant. ProQuest contains a large proportion of doctoral theses from around the world and provide an opportunity for complex Boolean searches, looking for intersections and exclusions in a structured way. Currently, we use a three-layer search pattern for this.
+			</p>
+			<p><b>LAYER ONE: Industry subsectors</b></p>
+				<p>
+				The first aspect to search for is the empirical focus that defines the research. This is complex because most of the words that define subsectors of industry are words in common usage in all areas of research. But we cannot avoid beginning with these words, due to their strong definitional power:
+				</p>
+					<div>
+						<p>    <small>building, built environment, civil engineering, construction, facilities management, housebuilding, infrastructure, megaproject</small></p>
+					</div>
+				<p>There are two additional uniquely CM additions to the first list: <small>quantity surveying, building information model</small>.
+				</p>
+				<p>
+				To avoid the generic and widespread use of most of these words and phrases, we need to connect them to ideas like types of organization:
+				</p>
+					<div>
+						<p>    <small>contract, contracts, contracting, contractor, contractors, firm, firms, industry, management, process, procurement, project, sector, site, supply chain</small></p>
+					</div>
+				<p>
+				Perhaps firm should be expanded to include company, consultant, consultancy, but these words are best placed in Layer 2 as the potential combinations become rather clumsy to do individually.
+				</p>
+				<p>
+				Removing combinations that are pointless, the full list for Level 1 is:
+				</p>
+				<div>
+						<p>    <small>"building firm" OR "building firms" OR "building industry" OR "building process" OR "building procurement" OR "building project" OR "building sector" OR "building site" OR "built environment industry" OR "built environment sector" OR "civil engineering firm" OR "civil engineering firms" OR "civil engineering industry" OR "civil engineering management" OR "civil engineering procurement" OR "civil engineering project" OR "civil engineering sector" OR "civil engineering site" OR "civil engineering supply chain" OR "construction firm" OR "construction firms" OR "construction industry" OR "construction management" OR "construction process" OR "construction procurement" OR "construction project" OR "construction sector" OR "construction site" OR "construction supply chain" OR "facilities management " OR "housebuilding firm" OR "housebuilding firms" OR "housebuilding industry" OR "housebuilding process" OR "housebuilding procurement" OR "housebuilding project" OR "housebuilding sector" OR "housebuilding site" OR "housebuilding supply chain" OR "infrastructure firm" OR "infrastructure firms" OR "infrastructure industry" OR "infrastructure procurement" OR "infrastructure project" OR "infrastructure sector" OR "infrastructure site" OR "megaproject industry" OR "megaproject management" OR "megaproject process" OR "megaproject procurement" OR "megaproject site" OR "megaproject supply chain" OR "building information model" OR "building information modeling" "building information modelling" OR "quantity surveying" OR "quantity surveyor"</small></p>
+					</div>
+			<p><b>LAYER TWO: Aspects of work</b></p>
+				<p>
+				This is just a plain list of specific words and phrases that have been shown to work well.
+				</p>
+					<div>
+						<p>    <small>"3d printing" OR "accident" OR "accidents" OR "architect" OR "artificial intelligence" OR "automation" OR "bid rigging" OR "bid/no bid" OR "bidding model" OR "bid-rigging" OR "bill of quantities" OR "bill of quantity" OR "bills of quantities" OR "bills of quantity" OR "blockchain" OR "budget" OR "builder" OR "building economics" OR "building regulation" OR "building regulations" OR "building trade" OR "building trades" OR "change management" OR "circular economy" OR "claims management" OR "climate adaptation" OR "code of practice" OR "code of practise" OR "codes of practice" OR "codes of practise" OR "collaboration" OR "compliance" OR "conflict control" OR "conflict management" OR "construction briefing" OR "construction economics" OR "construction law" OR "construction phase" OR "construction stage" OR "construction team" OR "construction work" OR "consulting engineer" OR "contract" OR "contract law" OR "contracting" OR "contractor" OR "contracts" OR "corruption" OR "cost control" OR "cost estimate" OR "cost overrun" OR "cost predictability" OR "critical path" OR "culture" OR "decision analysis" OR "decision making" OR "decision-making" OR "delivery" OR "demolition" OR "design decision" OR "design decisions" OR "design management" OR "design practice" OR "design stage" OR "development" OR "disaster recovery" OR "dispute resolution" OR "economic impact analysis" OR "economics" OR "education" OR "engineering consultant" OR "equipment" OR "ethical" OR "ethics" OR "financial management" OR "governance" OR "green building" OR "hand tools" OR "health and safety" OR "heritage" OR "improvement agenda" OR "industrialised building" OR "industrialized building" OR "information model" OR "information modeling" OR "information modelling" OR "inspection" OR "insurance" OR "international" OR "internet of things" OR "investment appraisal" OR "job satisfaction" OR "job site" OR "jobsite" OR "key performance indicator" OR "key performance indicators" OR "labor" OR "labour" OR "leadership" OR "lean construction" OR "life cycle" OR "life-cycle" OR "machine learning" OR "maintenance management" OR "materials management" OR "modular construction" OR "modularisation" OR "modularization" OR "offsite" OR "off-site" OR "organisation" OR "organisational" OR "organization" OR "organizational" OR "performance measurement" OR "policy" OR "prefabrication" OR "productivity" OR "public private partnership" OR "public private partnerships" OR "public-private partnership" OR "public-private partnerships" OR "quality assurance" OR "quality control" OR "quality management" OR "refurbishment" OR "regulation" OR "regulations" OR "regulatory" OR "resilience" OR "risk analysis" OR "risk management" OR "robotics" OR "safety" OR "schedule delay" OR "skills shortage" OR "social value" OR "stakeholder" OR "stakeholders" OR "subcontract" OR "supply chain" OR "sustainability" OR "sustainable" OR "tender" OR "time control" OR "time overrun" OR "training" OR "uncertainty management" OR "value engineering" OR "variations" OR "work site" OR "workflow" OR "workforce management" OR "worksite")</small></p>
+					</div>
+				
+			<p><b>LAYER THREE: Exclusions</b></p>
+				<p>
+				To remove the multiplicity of false positives, this level needs constant training and re-visiting. If it is too aggressive, though, the false negatives begin to increase. The list is organized into categories for the purposes of auditing and includes purely technical phenomena,  systems and concepts, professional and educational fields, sciences and disciplines, management fields, engineering disciplines.
+				</p>
+		
+				<p><em>Purely technical phenomena</em></p>
+					<div>
+						<p><small>    admixtures, biofouling, bioreactor, fabrics, geosynthetic, isotope, material culture analysis, morphogenesis, phase change materials, seismic protection, social cohesion, sociocultural construction, transducer</small></p>
+					</div>
+				<p><em>Systems and concepts</em></p>
+					<div>
+						<p><small>    energy systems, development incubator, developmental sequence, Islamic tradition, medical device industry, multiracial movement, nonprofit boards, nonprofits, pension fund capitalism, scalability, shipbuilding, social ethic, traffic control, translation system, transportation</small></p>
+					</div>
+				<p><em>Professional and educational fields</em></p>
+					<div>
+						<p><small>    art education, health care management, healthcare teams, mental health professional, teacher education, youth leadership</small></p>
+					</div>
+				<p><em>Sciences and disciplines</em></p>
+					<div>
+						<p><small>    aerodynamics, agronomy, animal science, biochemistry, bioinformatics, biology, biology, biomechanics, biomimetics, chemistry, electronics, environmental studies, geography, geology, geophysics, geotechnology, health and environmental science, hydrodynamics, hydrologic science, hydrological sciences, hydrology, land use planning, linguistic construction, materials chemistry, materials science, metallurgy, microbiology, nanotechnology, pedagogy, physics, radiology, rheology, seismology, sociobiology, stratigraphy, urban development, urban planning, youth studies, zooarchaeological</small></p>
+					</div>
+				<p><em>Specific management fields</em></p>
+					<div>
+						<p>    educational leadership, environmental management, global leadership, sport management, traffic management, water management, water resource management</p>
+					</div>
+				<p><em>Engineering disciplines</em></p>
+					<div>
+						<p><small>    acoustic engineering, acoustical engineering, aerospace engineering, agricultural engineering, automotive engineering, biomedical engineering, building services engineering, ceramic engineering, chemical engineering, computer engineering, electrical engineering, environmental engineering, explosives engineering, fire protection engineering, geological engineering, geotechnical engineering, highway engineering, marine engineering, materials engineering, mechanical engineering, military engineering, mining engineering, molecular engineering, nanotechnology, nuclear engineering, optical engineering, pavement engineering, petroleum engineering, power engineering, power plant engineering, railway engineering, software engineer, soil engineering, structural engineering, systems engineering, textile engineering, transport engineering, water resources engineering</small></p>
+					</div>
+				<p>
+				These are sorted alphabetically, and placed into one exclusions list for the structured search.
+				</p>
+			<p><b>Boolean search pattern</b></p>
+				<p>
+				Layer one AND Layer two NOT Layer three - and this search is restricted to English language, doctoral theses only, and to a date range since the previous search was carried out.
+				</p>
+				<p>
+				Currently, this is the only search that we routinely carry out. The use of the British Library EThOS system has been lost, since the British Library was attacked by hackers a couple of years ago and all their systems are being rebuilt from scratch. Despite much effort searching for other sources, there seems to be no other systematic database like ProQuest that can fill in the gaps. Some countries have their own national systems, and some Universities have their own systems. But, the every system has a different search interface and different credentials for access so, for now, at least, ProQuest remains the main system for finding data, coupled with individual theses that we notice in the execution of our daily work as academics. Please let us know of any resources you think we are missing here. Also, your feedback on these search terms would be invaluable. Are we filtering too much? Are we discovering too much or too little?
+				</p>
+		</div>
+		<div style="margin-bottom: 1em">
+		
+		  <epc:phrase ref="contact-footer"/>
+		</div>
+
+        <p><small><i>Last updated 8 September 2026</i></small></p>
+    </xpage:body>
+</xpage:page>

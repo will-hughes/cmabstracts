@@ -1,0 +1,2 @@
+This folder is not used by EPrints, so the file here is just a placeholder in case the folder becomes usable. Either delete this or ensure it is identical to:
+/opt/eprints3/flavours/pub_lib/plugins/EPrints/Plugin/Import/RIS.pm

@@ -1,0 +1,63 @@
+
+/* 
+ * This CSS file will be applied after all the built in styles.
+ * 
+ * CSS files are loaded in alphabetic order, hence the  "zzz" in 
+ * the filename to force it to load after the other css files!
+ * 
+ * Add any local over-rides here. 
+ * 
+ * To totally replace a system css file, create a file of the same 
+ * name in this directory. eg. messages.css
+ * 
+*/
+.ep_tm_searchbar { background-image: none !important; }
+.ep_tm_searchbar ul { background-image: none !important; }
+.ep_tm_searchbar ul.ep_tm_key_tools { background-image: none !important; }
+.ep_tm_searchbar li { background-image: none !important; }
+.ep_columns_title { background-image: none !important; }
+td.ep_columns_alter { background-image: none !important; }
+th.ep_title_row { background-image: none !important; }
+.ep_search_buttons { background-image: none !important; }
+.ep_search_controls { background-image: none !important; }
+.ep_search_controls_bottom { background-image: none !important; }
+.ep_view_group_by { background-image: none !important; }
+.ep_tm_header { background-image: none !important; }
+
+.ep_tm_searchbar { clear: both !important; }
+
+.cma_searchbar {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+}
+.cma_searchbar > div:last-child { justify-self: end; }
+.cma_sitename a {
+  font-size: 1.3em;
+  font-weight: bold;
+  color: #1f4e79;
+  text-decoration: none;
+}
+@media (max-width: 640px) {
+  .cma_searchbar { grid-template-columns: 1fr; }
+  .cma_searchbar > div { justify-self: center; }
+  .cma_sitename { order: -1; }
+}
+
+/* Logged in: hide the site name and give the admin links the width */
+.cma_searchbar:has(a[href*="logout"]) {
+  grid-template-columns: 1fr auto;
+}
+.cma_searchbar:has(a[href*="logout"]) .cma_sitename {
+  display: none;
+}
+.ep_tm_header:has(a[href*="logout"]) .ep_tm_menu,
+.ep_tm_header:has(a[href*="logout"]) .ep_tm_menu ul {
+  background-color: #307f4f;
+}
+.ep_tm_header:has(a[href*="logout"]) .ep_tm_menu li:hover {
+  background-color: #3fa066;
+}
+#wrapper:has(.ep_tm_header a[href*="logout"]) .ep_form_action_button {
+  background-color: #307f4f;
+}

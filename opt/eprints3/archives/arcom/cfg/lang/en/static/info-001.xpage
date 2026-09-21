@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+
+<xpage:title>Why are we doing this?</xpage:title>
+    <xpage:body>
+		<div>
+        <em>Background information about the origin and operation of the CM Abstracts.</em>
+		</div>
+		<div>
+			<p>
+			The CM Abstracts database is a searchable database (or catalogue) of construction management research papers. Technically, it functions as a metadata catalogue, a structured collection of publication records rather than full texts. But it goes beyond traditional indexing. It represents an evolving effort to classify and conceptualize the field, with curated keyword structures and thematic frameworks that will enable deeper exploration of connections, debates, and research trajectories. (This structured keyword work is ongoing and may not be immediately visible to users.)
+			</p>
+			<p>Why is such a resource necessary when free-text search engines already index vast quantities of published work? While free-text searching is powerful, it presents two challenges for researchers. First, it often returns unmanageable volumes of results; millions of hits where terms appear in unrelated or superficial contexts. Second, general search engines increasingly prioritize popularity and current trends, favoring mainstream topics over the nuanced, specialized discourse of empirical fields like ours. The CM Abstracts database addresses these limitations by providing authoritative, field-specific curation. Data is purposefully included to reflect the depth and diversity of our collective research; ensuring relevance. Of course, it is not exhaustive. Nor should it be the endpoint of any search. Instead, it serves as a strong starting point, revealing useful connections and themes that may then warrant exploration through other tools, such as Scopus, ProQuest and so on.
+			</p>
+			<p>
+			The importance we attach to our sense of community is a much-needed antidote to the reductionism inherent in the way that our institutions treat our contributions, whether individual or collective. The concept of communities of practice is very helpful in thinking about the construction management research community and how we relate to the multiple communities and organizations we all belong to, and commit to. 
+			</p>
+			<p>Ultimately, the value of this database lies in:</p>
+			<ul>
+				<li>Scholarly Authority: Providing guidance on defining the intellectual contours of construction management research.</li>
+				<li>Enhanced Discoverability: PhD theses, conference papers, and defunct journals are often lost in the noise from the diverse results from search engines.</li>
+				<li>Research Structuring: We are developing a taxonomy and classification system that supports conceptual clarity and scholarly engagement. (This work is still in progress.)</li>
+				<li>Sustainability: A system of this nature should be stable, scalable, and designed for low-maintenance continuity. The software used for this database is open source and easily available with a large community of knowledgeable users.</li>
+				<li>Developmental potential: This kind of database offers the potential for storing documents, as well as their metadata. While the bulk of our records are readily avalailable in publishers' repositories, some defunct journals, some isolated PhDs and other interesting documents may be difficult to source online. There is potential in exploring the possibility for securing these and storing them in this database for ready access by researchers.</li>
+				<li>Teaching resource: One of the advantages of such a focused database is to enable students and their supervisors to rapidly obtain a list of papers that are definitely in the realm of CM. This is a helpful first step to enable supervisors to get students reading relevant papers early in the research process without having them stumble over the acquisition of the skills needed for developing complex searches. This is not to displace that need altogether, merely to get the work moving during the initial exploratory stages of defining a topic.</li>
+				<li>Transparency of trajectories: One of our ambitions in this work is to make theory-driven empirical research papers visible to those who might develop a career in CM research. For example, the visibility of PhD theses from a wide range of universities provides an inviting landscape to those who may not have fully realized the wide range of interesting opportunities for research in this field.</li>
+			</ul>
+			<p>
+			Thus, the database is not just a resource; it is a scholarly asset for the research community that reinforces our collective capacity to reflect and, perhaps, it helps to shape how construction management is understood, taught, and developed. Do you agree that this is a useful resource? Would it be a useful starting point for researchers? Do you know of anything similar? Please get in touch and share your views!
+			</p>
+		</div>
+        <div style="margin-bottom: 1em">
+		  <epc:phrase ref="contact-footer"/>
+		</div>
+
+        <p><small><i>Last updated 15 September 2025</i></small></p>
+    </xpage:body>
+</xpage:page>

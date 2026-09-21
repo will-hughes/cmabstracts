@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+
+<xpage:title>For researchers</xpage:title>
+    <xpage:body>
+        <div>
+<h3>Navigate and advance the scholarly conversation</h3>
+<p>For the professional researcher, CM Abstracts is an essential tool for <strong>engaging with the discipline's ongoing discourse</strong>. It moves you beyond generic searches to achieve precise, authoritative dialogue with the Construction Management (CM) research literature. This curated corpus saves you time and provides the disciplined foundation needed to <strong>locate your unique point of contribution</strong>, satisfy stakeholders, and advance the field through new perspective and robust explanation.</p>
+<h4>The core challenge: Precision in a broad field</h4>
+<p>In a multidisciplinary field like CM, the primary challenge is not a lack of information, but <strong>finding the right scholarly conversation efficiently</strong>. Generic searches scatter your focus across engineering, policy, and business journalism. This database acts as a <strong>disciplinary lens</strong>, ensuring your literature work is grounded in the relevant academic discourse from the outset, allowing you to see where discussions are active, saturated, or where a particular lens is under-represented.</p>
+<h4>Key uses for your research workflow</h4>
+<ul>
+<li><strong>Systematically map the conversation:</strong> Conduct rigorous scoping reviews to understand the structure of the scholarly discourse. Identify which theoretical frameworks are active, which empirical contexts are well-studied, and where <strong>opportunities for a new perspective, a more robust explanation, or a different theoretical lens</strong> exist. This allows you to find a productive entry point for your work.</li>
+<li><strong>Position and justify your contribution:</strong> Use search results to clearly articulate how your work <strong>enters, engages with, challenges, or extends</strong> existing lines of inquiry. Demonstrate how you are offering a fresh take or addressing an underexplored aspect of a phenomenon; this is critical for developing compelling research questions, robust study designs, and persuasive proposals.</li>
+<li><strong>Achieve methodological alignment:</strong> Leverage the <a href="/guides/dscope.html">research facets</a>, particularly <strong>Empirical technique</strong> and <strong>Analytical technique,</strong> to efficiently find and learn from studies using methodological approaches relevant to your work. This supports stronger methodological design and justification.</li>
+<li><strong>Demonstrate rigour to stakeholders:</strong> For steering groups, funders, and collaborators, the use of this curated database is a marker of methodological discipline. It provides transparent evidence that your project’s foundations are built on a systematic understanding of the field’s <strong>current conversation</strong>, not just a scattered collection of findings.</li>
+</ul>
+<h4>The empirical research facets: A scanning tool for researchers</h4>
+<p>The descriptive scope is an indexing feature that describes which facets (Phenomenon, Concept, Theoretical framing, Empirical technique, Analytical technique) are present in a paper’s metadata. For the researcher, this is not a quality score but a <strong>quick-scan indicator</strong>. It helps you rapidly assess if an abstract describes a fully-framed empirical study, allowing for more efficient triage in your literature review.</p>
+<h4>Integrate seamlessly into your process</h4>
+<p>Export results directly to your reference manager (e.g., Zotero, EndNote) to build a clean, organized library. Use complex searches and saved queries to monitor new publications in your niche, ensuring you remain current with the evolving conversation.</p>
+<h4>A tool for scholarly engagement</h4>
+<p>CM Abstracts does not automate insight, but it provides the precise, relevant corpus upon which insight is built. It empowers you to navigate the CM research landscape with confidence, ensuring your valuable time is spent on analysis and contribution, not on filtering noise.</p>
+</div>
+
+        <div style="margin-bottom: 1em">
+		  <epc:phrase ref="contact-footer"/>
+		</div>
+
+        <p><small><i>Last updated 16 September 2026</i></small></p>
+    </xpage:body>
+</xpage:page>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html SYSTEM "entities.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:epc="http://eprints.org/ep3/control">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title><epc:pin ref="title" textonly="yes"/> | <epc:phrase ref="archive_name"/></title>
+    <link rel="icon" href="{$config{rel_path}}/favicon.ico" type="image/x-icon"/>
+    <link rel="shortcut icon" href="{$config{rel_path}}/favicon.ico" type="image/x-icon"/>
+    <epc:pin ref="head"/>
+  </head>
+  <body>
+    <epc:pin ref="pagetop"/>
+    <div id="wrapper">
+      <header>
+        <div class="ep_tm_header ep_noprint">
+          <nav aria-label="Main Navigation">
+            <ul role="menubar" class="ep_tm_menu">
+              <li role="none">
+                <a href="{$config{rel_path}}/" title="{phrase('template/navigation:home:title')}" role="menuitem">
+                  <epc:phrase ref="template/navigation:home"/>
+                </a>
+              </li>
+              <li role="none">
+                <a href="{$config{rel_path}}/information.html" title="{phrase('template/navigation:about:title')}" role="menuitem">
+                  <epc:phrase ref="template/navigation:about"/>
+                </a>
+              </li>
+              <li role="none">
+                <a href="{$config{rel_path}}/view/" title="{phrase('template/navigation:browse:title')}" role="menuitem" menu="ep_tm_menu_browse" aria-expanded="false" aria-haspopup="true" aria-owns="ep_tm_menu_browse">
+                  <epc:phrase ref="template/navigation:browse"/>
+                </a>
+                <ul role="menu" id="ep_tm_menu_browse" style="display:none;">
+                  <li role="none">
+                    <a href="{$config{rel_path}}/view/year/" role="menuitem">
+                      <epc:phrase ref="bin/generate_views:indextitleprefix"/>
+                      <epc:phrase ref="viewname_eprint_year"/>
+                    </a>
+                  </li>
+                  <li role="none">
+                    <a href="{$config{rel_path}}/view/journal_volume/" role="menuitem">
+                      <epc:phrase ref="bin/generate_views:indextitleprefix"/>
+                      <epc:phrase ref="viewname_eprint_journals"/>
+                    </a>
+                  </li>
+                  <li role="none">
+                    <a href="{$config{rel_path}}/view/thesis/" role="menuitem">
+                      <epc:phrase ref="bin/generate_views:indextitleprefix"/>
+                      <epc:phrase ref="navmenu_eprint_thesis"/>
+                    </a>
+                  </li>
+                  <li role="none">
+                    <a href="{$config{rel_path}}/view/creators/" role="menuitem">
+                      <epc:phrase ref="bin/generate_views:indextitleprefix"/>
+                      <epc:phrase ref="viewname_eprint_creators"/>
+                    </a>
+                  </li>
+                  <li role="none">
+                    <a href="{$config{rel_path}}/view/iterm/" role="menuitem">
+                      <epc:phrase ref="bin/generate_views:indextitleprefix"/>
+                      <epc:phrase ref="viewname_eprint_iterm"/>
+                    </a>
+                  </li>
+            	<li role="none">
+                    <a href="{$config{rel_path}}/view/topic/" role="menuitem">
+                      <epc:phrase ref="bin/generate_views:indextitleprefix"/>
+                      <epc:phrase ref="viewname_eprint_topic"/>
+                    </a>
+                  </li>
+				<li role="none">
+                    <a href="{$config{rel_path}}/view/subject/" role="menuitem">
+                      <epc:phrase ref="bin/generate_views:indextitleprefix"/>
+                      <epc:phrase ref="navmenu_eprint_subject"/>
+                    </a>
+                  </li>
+            	</ul>
+              </li>
+
+			<li role="none">
+      <a href="{$config{rel_path}}/guides/guides.html" title="Guides" role="menuitem" menu="ep_tm_menu_guides" aria-expanded="false" aria-haspopup="true" aria-owns="ep_tm_menu_guides">Guides</a>
+      <ul role="menu" id="ep_tm_menu_guides" style="display:none;">
+        <li role="none">
+          <a href="{$config{rel_path}}/guides/for_students.html" role="menuitem">Guide for students</a>
+        </li>
+        <li role="none">
+          <a href="{$config{rel_path}}/guides/for_supervisors.html" role="menuitem">Guide for supervisors</a>
+        </li>
+        <li role="none">
+          <a href="{$config{rel_path}}/guides/for_researchers.html" role="menuitem">Guide for researchers</a>
+        </li>
+        <li role="none">
+          <a href="{$config{rel_path}}/guides/for_policy.html" role="menuitem">Guide for research policy-makers</a>
+        </li>
+        <li role="none">
+          <a href="{$config{rel_path}}/guides/for_stewards.html" role="menuitem">Guide for academic stewards</a>
+        </li>
+        <li role="none">
+          <a href="{$config{rel_path}}/guides/for_industry.html" role="menuitem">Guide for industry professionals</a>
+        </li>
+        <li role="none">
+          <a href="{$config{rel_path}}/guides/for_publishers.html" role="menuitem">Guide for academic publishers</a>
+        </li>
+      </ul>
+    </li>
+	
+				<li role="none">
+      <a href="{$config{rel_path}}/guides/taxonomyguide.html" title="Taxonomy" role="menuitem" menu="ep_tm_menu_taxonomy" aria-expanded="false" aria-haspopup="true" aria-owns="ep_tm_menu_taxonomy">Taxonomy</a>
+      <ul role="menu" id="ep_tm_menu_taxonomy" style="display:none;">
+        <li role="none">
+          <a href="{$config{rel_path}}/guides/taxonomy.html" role="menuitem">About the taxonomy</a>
+        </li>
+        <li role="none">
+          <a href="{$config{rel_path}}/guides/topics.html" role="menuitem">Topics</a>
+        </li>
+        <li role="none">
+          <a href="{$config{rel_path}}/guides/subjects.html" role="menuitem">Subjects</a>
+        </li>
+        <li role="none">
+          <a href="{$config{rel_path}}/guides/dscope.html" role="menuitem">Descriptive Scope</a>
+        </li>
+      </ul>
+    </li>
+				
+				<li role="none">
+					<a href="{$config{rel_path}}/cgi/search/advanced" title="Advanced Search" role="menuitem">Advanced Search</a>
+
+				</li>
+				        <li role="none" style="float:right;">
+          <a href="https://forms.cloud.microsoft/e/HewMjcJ20p" title="{phrase('template/navigation:feedback:title')}" role="menuitem" target="_blank" rel="external noopener">
+            <epc:phrase ref="template/navigation:feedback"/>
+          </a>
+        </li>
+			</ul>
+
+          </nav>
+        
+          <div class="ep_tm_searchbar cma_searchbar">
+            <div>
+              <epc:pin ref="login_status"/>
+            </div>
+			<div class="cma_sitename">
+			<a href="{$config{rel_path}}/"><epc:phrase ref="archive_name"/></a>
+			</div>
+            <div>
+              <epc:pin ref="languages"/>
+			  <form method="get" accept-charset="utf-8" action="{$config{rel_cgipath}}/search/simple">
+                <input class="ep_tm_searchbarbox" size="20" type="text" name="q" aria-labelledby="searchbutton"/>
+                <input class="ep_tm_searchbarbutton" value="{phrase('lib/searchexpression:action_search')}" type="submit" name="_action_search" id="searchbutton"/>
+                <input type="hidden" name="_action_search" value="Search"/>
+                <input type="hidden" name="_order" value="bytitle"/>
+                <input type="hidden" name="basic_srchtype" value="ALL"/>
+                <input type="hidden" name="_satisfyall" value="ALL"/>
+              </form>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <div id="main_content">
+        <div class="ep_tm_page_content">
+          <h1 id="page-title" class="ep_tm_pagetitle">
+            <epc:pin ref="title"/>
+          </h1>
+          <epc:pin ref="page"/>
+        </div>
+      </div>
+
+      <footer>
+        <div class="ep_tm_footer ep_noprint">
+          <epc:phrase ref="template:about_eprints"/>
+          <div class="ep_tm_eprints_logo">
+            <a rel="external" href="https://eprints.org/software/">
+              <img alt="EPrints Logo" src="{$config{rel_path}}/images/eprintslogo.png"/><img alt="EPrints Publications Flavour Logo" src="{$config{rel_path}}/images/flavour.png" style="width: 28px"/>
+            </a>
+          </div>
+        </div>
+      </footer>
+    </div> <!-- wrapper -->
+  <script defer="defer" src="https://stats.arcomabstracts.com/script.js" data-website-id="7870be80-94a2-4216-867d-05cb06443f04"> </script>
+  </body>
+</html>
+  

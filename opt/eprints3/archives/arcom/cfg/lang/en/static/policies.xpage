@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+<xpage:title>Policies</xpage:title>
+<xpage:body>
+
+<div>
+
+<p><epc:phrase ref="archive_name" /> is a curated catalogue of construction management research. It is not an open-access repository: it holds bibliographic records rather than full texts, and material is selected by the editor rather than deposited at will. The policies that apply to open-access repositories, and the registration schemes that describe them are, therefore, not applicable here.</p>
+
+<p>What governs this catalogue is set out on the pages below.</p>
+
+<ul>
+  <li><a href="/info_choosing_papers.html">Choosing papers</a> — how journals are selected, by cross-citation analysis rather than reputation, and how doctoral theses are identified.</li>
+  <li><a href="/info_research_quality.html">Research quality</a> — why the catalogue records what the field has produced rather than judging which of it is worth reading.</li>
+  <li><a href="/context.html">About <epc:phrase ref="archive_name" /></a> — the background to the field and why the catalogue is scoped as it is.</li>
+  <li><a href="/information.html">Information</a> — general description of the service.</li>
+</ul>
+
+<p>Records are checked before they appear. Contributors with an account may deposit, but nothing enters the catalogue until it has been reviewed and approved by the editor.</p>
+
+<p>Corrections are welcome. If you find an error in a record, or think a journal should be added to or removed from the catalogue, please get in touch using the details below.</p>
+
+</div>
+		<div style="margin-bottom: 1em">
+			<epc:phrase ref="contact-footer"/>
+		</div>
+
+    <p><small><i>Last updated 8 September 2026</i></small></p>
+</xpage:body>
+</xpage:page>
