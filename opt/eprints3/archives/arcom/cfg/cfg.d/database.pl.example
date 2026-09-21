@@ -1,0 +1,7 @@
+$c->{dbname} = 'arcom';
+$c->{dbhost} = 'localhost';
+$c->{dbport} = undef;
+$c->{dbsock} = undef;
+$c->{dbuser} = 'CHANGEME';
+$c->{dbpass} = 'CHANGEME';
+$c->{dbengine} = 'InnoDB';

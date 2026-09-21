@@ -33,3 +33,8 @@ TLS keys, documents and generated HTML.
 `sync-repo.sh` copies the files above from their live locations into this
 repository, one way only (server → repository), applying the exclusions in
 `.sync-exclude`. Changes are then reviewed and committed from there.
+
+## Licence
+
+Released under the GNU Lesser General Public License v3.0, the licence
+EPrints itself uses. See `COPYING.LESSER` and `COPYING`.
