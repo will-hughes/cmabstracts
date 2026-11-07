@@ -4,9 +4,23 @@
 
   <!-- This file is used to add phrases from the phrase editor screen -->
 
-
+	<epp:phrase id="history_fieldopt_action_move_buffer_to_deletion">Retired</epp:phrase>
+	<epp:phrase id="history_fieldopt_action_move_inbox_to_buffer">Moved from work area to review</epp:phrase>
+	<epp:phrase id="history_fieldopt_action_move_inbox_to_archive">Moved from work area to repository</epp:phrase>
+	<epp:phrase id="history_fieldopt_action_move_inbox_to_deletion">Moved from work area to retired</epp:phrase>
+	<epp:phrase id="history_fieldopt_action_move_buffer_to_inbox">Returned from review to work area</epp:phrase>
+	<epp:phrase id="history_fieldopt_action_move_buffer_to_archive">Moved from review to repository</epp:phrase>
+	<epp:phrase id="history_fieldopt_action_move_buffer_to_deletion">Retired from review</epp:phrase>
+	<epp:phrase id="history_fieldopt_action_move_archive_to_inbox">Returned from repository to work area</epp:phrase>
+	<epp:phrase id="history_fieldopt_action_move_archive_to_buffer">Moved from repository to review</epp:phrase>
+	<epp:phrase id="history_fieldopt_action_move_archive_to_deletion">Retired from repository</epp:phrase>
+	<epp:phrase id="history_fieldopt_action_move_deletion_to_inbox">Moved from retired to work area</epp:phrase>
+	<epp:phrase id="history_fieldopt_action_move_deletion_to_buffer">Moved from retired to review</epp:phrase>
+	<epp:phrase id="history_fieldopt_action_move_deletion_to_archive">Reinstated from retired to repository</epp:phrase>
 
     <epp:phrase id="warnings:no_documents">The metadata is completed and there are no files to upload because this is not a repository. Now deposit the item.</epp:phrase>
+	
+	<epp:phrase id="mail_delete_reason">Duplicate record.</epp:phrase>
 
     <epp:phrase id="eprint_fieldname_title:hints">The title should not end with a full stop, but may end with a question mark. There is no way to make italic text, please enter it normally.
 If there is a subtitle, it should be preceded with a colon [:]. 
@@ -157,6 +171,85 @@ Use sentence case, i.e. lower case letters throughout except for the first word 
 	</div>
 	</epp:phrase>
 
+	<epp:phrase id="cgi/checkabstract:title">Check your own abstract</epp:phrase>
 
+	<epp:phrase id="cgi/checkabstract:intro"><p class="chk_intro">Enter the title and abstract of a paper you are preparing. The page compares the wording with the terms used to index the catalogue. It reports which terms match, which of the five facets of the taxonomy they cover and which catalogued records share them.</p></epp:phrase>
+
+	<epp:phrase id="cgi/checkabstract:before_you_start"><h2>Before you start</h2>
+	<p>The result describes wording only. It is not an assessment of quality, originality or rigour, and it is not an academic judgement. It has no bearing on whether a paper will be accepted by any conference, journal or reviewer.</p>
+	<p>The taxonomy was designed to describe empirical research. Conceptual and position papers are no less valuable, but this check may tell their authors little, since several of the facets describe how a study was carried out.</p>
+	<p>Review papers are empirical research. Their empirical technique is the way the papers under review were identified and selected, and their analytical technique is the way those papers were examined.</p>
+	<p>A low number of matches may mean the abstract is not specific about its scope. It may equally mean the taxonomy does not yet include terms for the subject. If you think a term is missing, please tell us through the feedback form.</p>
+	<p>Matching looks for the longest term first, so a match on a phrase such as project management is not also counted as a match on project.</p>
+	<p><a href="/guides/dscope.html">About descriptive scope</a></p></epp:phrase>
+
+	<epp:phrase id="cgi/checkabstract:label_title">Title</epp:phrase>
+	<epp:phrase id="cgi/checkabstract:label_abstract">Abstract</epp:phrase>
+	<epp:phrase id="cgi/checkabstract:word_count"><epc:pin name="words"/> words. No limit applies here.</epp:phrase>
+	<epp:phrase id="cgi/checkabstract:action_check">Check abstract</epp:phrase>
+	<epp:phrase id="cgi/checkabstract:action_clear">Clear</epp:phrase>
+	<epp:phrase id="cgi/checkabstract:action_copy">Copy ticked terms</epp:phrase>
+
+	<epp:phrase id="cgi/checkabstract:privacy"><p class="chk_privacy_head">Your text stays private</p>
+	<p>Nothing you enter on this page is stored, saved or logged in any form. Your title and abstract are used once to produce the results and are discarded as soon as the results are shown. No one, including the administrators of this site, can see what you enter, whether you are working on the page or have finished with it.</p></epp:phrase>
+
+	<epp:phrase id="cgi/checkabstract:empty"><p class="chk_message">Please enter a title, an abstract or both.</p></epp:phrase>
+	<epp:phrase id="cgi/checkabstract:too_long"><p class="chk_message">The text is longer than <epc:pin name="max"/> words, so it has not been checked. Please enter the title and abstract only.</p></epp:phrase>
+
+	<epp:phrase id="cgi/checkabstract:results_heading">What the taxonomy finds</epp:phrase>
+	<epp:phrase id="cgi/checkabstract:scope_label">Descriptive scope</epp:phrase>
+	<epp:phrase id="cgi/checkabstract:scope_0">No facets</epp:phrase>
+	<epp:phrase id="cgi/checkabstract:scope_1">One of five facets</epp:phrase>
+	<epp:phrase id="cgi/checkabstract:scope_2">Two of five facets</epp:phrase>
+	<epp:phrase id="cgi/checkabstract:scope_3">Three of five facets</epp:phrase>
+	<epp:phrase id="cgi/checkabstract:scope_4">Four of five facets</epp:phrase>
+	<epp:phrase id="cgi/checkabstract:scope_5">All five facets</epp:phrase>
+	<epp:phrase id="cgi/checkabstract:scope_missing">No term was found for <epc:pin name="list"/>.</epp:phrase>
+	<epp:phrase id="cgi/checkabstract:no_terms"><p class="chk_message">No index terms were found. The abstract may not be specific about its scope, or the taxonomy may not yet include terms for its subject.</p></epp:phrase>
+
+	<epp:phrase id="cgi/checkabstract:facet_phenomenon">Phenomenon</epp:phrase>
+	<epp:phrase id="cgi/checkabstract:facet_concept">Concept</epp:phrase>
+	<epp:phrase id="cgi/checkabstract:facet_theoretical_framing">Theoretical framing</epp:phrase>
+	<epp:phrase id="cgi/checkabstract:facet_empirical_technique">Empirical technique</epp:phrase>
+	<epp:phrase id="cgi/checkabstract:facet_analytical_technique">Analytical technique</epp:phrase>
+	<epp:phrase id="cgi/checkabstract:facet_phenomenon_article">a phenomenon</epp:phrase>
+	<epp:phrase id="cgi/checkabstract:facet_concept_article">a concept</epp:phrase>
+	<epp:phrase id="cgi/checkabstract:facet_theoretical_framing_article">a theoretical framing</epp:phrase>
+	<epp:phrase id="cgi/checkabstract:facet_empirical_technique_article">an empirical technique</epp:phrase>
+	<epp:phrase id="cgi/checkabstract:facet_analytical_technique_article">an analytical technique</epp:phrase>
+	<epp:phrase id="cgi/checkabstract:phenomenon_desc">Objects, roles, processes, locations and individuals under study</epp:phrase>
+	<epp:phrase id="cgi/checkabstract:none_found">No term found.</epp:phrase>
+	<epp:phrase id="cgi/checkabstract:written_as">written as <epc:pin name="forms"/></epp:phrase>
+	<epp:phrase id="cgi/checkabstract:records_1">1 record</epp:phrase>
+	<epp:phrase id="cgi/checkabstract:records_n"><epc:pin name="n"/> records</epp:phrase>
+
+	<epp:phrase id="cgi/checkabstract:keywords_heading">Choosing your keywords</epp:phrase>
+	<epp:phrase id="cgi/checkabstract:keywords_intro"><p>Compare your own keywords with the terms found above. We would expect the keywords of a paper to include at least one term from each of the five facets. Tick the terms you feel properly represent your work.</p></epp:phrase>
+
+	<epp:phrase id="cgi/checkabstract:length_heading">Length</epp:phrase>
+	<epp:phrase id="cgi/checkabstract:length"><p>Your abstract is <epc:pin name="words"/> words. No limit applies here. Publishers and editors often ask for no more than 250 words, so a longer draft may need cutting before submission. The terms you tick are a guide to what the shorter version should keep.</p></epp:phrase>
+
+	<epp:phrase id="cgi/checkabstract:related_heading">Records sharing these terms</epp:phrase>
+	<epp:phrase id="cgi/checkabstract:related_intro"><p><epc:pin name="total"/> catalogued records share at least <epc:pin name="need"/> of the matched terms. Those sharing the most are listed first.</p></epp:phrase>
+	<epp:phrase id="cgi/checkabstract:related_none"><p>No catalogued record shares enough of the matched terms to be listed.</p></epp:phrase>
+	<epp:phrase id="cgi/checkabstract:related_shared"> (<epc:pin name="n"/> terms in common)</epp:phrase>
+
+	<epp:phrase id="cgi/checkabstract:suggest"><div class="chk_suggest"><p>Is a term missing, or does a match look wrong? Suggestions from authors are how the taxonomy improves.</p><p><a href="https://forms.cloud.microsoft/e/HewMjcJ20p" target="_blank" rel="external noopener">Suggest a term</a></p></div></epp:phrase>
+
+	<!-- Phrases for the research-design view pages -->
+	<epp:phrase id="facet_phenomenon_object">Phenomenon – object</epp:phrase>
+	<epp:phrase id="facet_phenomenon_process">Phenomenon – process</epp:phrase>
+	<epp:phrase id="facet_phenomenon_role">Phenomenon – role</epp:phrase>
+	<epp:phrase id="facet_phenomenon_location">Phenomenon – location</epp:phrase>
+	<epp:phrase id="facet_phenomenon_individual">Phenomenon – individual</epp:phrase>
+	<epp:phrase id="facet_concept">Concept</epp:phrase>
+	<epp:phrase id="facet_theoretical_framing">Theoretical framing</epp:phrase>
+	<epp:phrase id="facet_empirical_technique">Empirical technique</epp:phrase>
+	<epp:phrase id="facet_analytical_technique">Analytical technique</epp:phrase>
+	<epp:phrase id="facet_dissemination">Dissemination</epp:phrase>
+
+
+    <epp:phrase id="bin/generate_views:browseintro">Items may be browsed by the following:
+<div class="ep_view_browse_list rd_extra"><ul><li><a href="../browse/research_design/index.html">Research design</a></li></ul></div></epp:phrase>
 
 </epp:phrases>

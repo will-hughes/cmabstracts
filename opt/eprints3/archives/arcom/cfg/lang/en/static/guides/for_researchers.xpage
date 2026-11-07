@@ -15,6 +15,7 @@
 <li><strong>Position and justify your contribution:</strong> Use search results to clearly articulate how your work <strong>enters, engages with, challenges, or extends</strong> existing lines of inquiry. Demonstrate how you are offering a fresh take or addressing an underexplored aspect of a phenomenon; this is critical for developing compelling research questions, robust study designs, and persuasive proposals.</li>
 <li><strong>Achieve methodological alignment:</strong> Leverage the <a href="/guides/dscope.html">research facets</a>, particularly <strong>Empirical technique</strong> and <strong>Analytical technique,</strong> to efficiently find and learn from studies using methodological approaches relevant to your work. This supports stronger methodological design and justification.</li>
 <li><strong>Demonstrate rigour to stakeholders:</strong> For steering groups, funders, and collaborators, the use of this curated database is a marker of methodological discipline. It provides transparent evidence that your project’s foundations are built on a systematic understanding of the field’s <strong>current conversation</strong>, not just a scattered collection of findings.</li>
+<li><strong>Support for your writing:</strong> For authors of research and conference papers, the title, abstract and keywords are the strongest elements in getting your research in front of people. It may help to see what this site would make of a paper you are writing, and to test the words you are using against those used in this literature. Whether you want to know which vocabulary would help others discover your paper, or which would help you make your point in this specialized area of research, you can check a draft title and abstract privately on the <a href="/cgi/checkabstract">Check your own abstract</a> page. It shows which index terms your wording matches, which of the five facets of the taxonomy those terms cover and which catalogued papers share them. It also helps you choose keywords from the terms it finds. Nothing you enter is stored, and the result describes your wording only, not the quality of your research.</li>
 </ul>
 <h4>The empirical research facets: A scanning tool for researchers</h4>
 <p>The descriptive scope is an indexing feature that describes which facets (Phenomenon, Concept, Theoretical framing, Empirical technique, Analytical technique) are present in a paper’s metadata. For the researcher, this is not a quality score but a <strong>quick-scan indicator</strong>. It helps you rapidly assess if an abstract describes a fully-framed empirical study, allowing for more efficient triage in your literature review.</p>
@@ -28,6 +29,6 @@
 		  <epc:phrase ref="contact-footer"/>
 		</div>
 
-        <p><small><i>Last updated 16 September 2026</i></small></p>
+        <p><small><i>Last updated 29 September 2026</i></small></p>
     </xpage:body>
 </xpage:page>

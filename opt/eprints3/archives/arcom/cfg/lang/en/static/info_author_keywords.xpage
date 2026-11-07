@@ -21,12 +21,14 @@
 				<li>
 				<b>Do not use acronyms in keywords or titles!</b> <a href="/info-acronyms.html">Acronyms collide</a> across disciplines and even within construction management research: BIM alone is used for British Institute of Management, Building Information Model, Building Information Modelling, and others. A reader searching for one will retrieve papers about another, and a reader searching for another may miss yours entirely. Define acronyms in the body text; do not rely on them to carry meaning in keywords or titles.
 				</li>
+				<li>Do choose keywords that describe the research as well as its subject. A balanced set of keywords will identify what was studied, the concepts the paper draws on, the theoretical framing and the techniques used to collect and analyse the data. Keywords about the subject alone do not tell a reader what kind of study the paper reports.</li>
 			</ul>
+			<p>To see how the wording of a draft title and abstract relates to the vocabulary of this catalogue, try the <a href="/cgi/checkabstract">Check your own abstract</a> page. It lists the index terms your wording matches, grouped by the five facets of the taxonomy, and helps you pick from them the terms that properly represent your work. Nothing you enter is stored.</p>
 		</div>
 		<div style="margin-bottom: 1em">
 		  <epc:phrase ref="contact-footer"/>
 		</div>
 
-        <p><small><i>Last updated 13 August 2026</i></small></p>
+        <p><small><i>Last updated 29 September 2026</i></small></p>
     </xpage:body>
 </xpage:page>

@@ -1,0 +1,79 @@
+/* Check your own abstract (/cgi/checkabstract)
+   Place in /opt/eprints3/archives/arcom/cfg/static/style/auto/
+   Colours are deliberately few; the site stylesheet supplies fonts and headings. */
+
+.chk_page { max-width: 1100px; }
+.chk_intro { font-size: 1.1em; max-width: 46em; }
+
+.chk_top { display: flex; flex-wrap: wrap; gap: 2em; align-items: flex-start; margin: 1.5em 0 2.5em; }
+.chk_form { flex: 7 1 26em; display: flex; flex-direction: column; gap: 0.5em; }
+.chk_notes { flex: 5 1 18em; background: #ece8dc; border-radius: 8px; padding: 0.5em 1.5em 1em; }
+.chk_notes h2 { font-size: 1.25em; }
+
+.chk_form label { font-weight: bold; margin-top: 0.75em; }
+.chk_form input[type=text], .chk_form textarea {
+  font: inherit; padding: 0.6em 0.75em; border: 1px solid #b9b3a4; border-radius: 6px;
+  background: #fff; width: 100%; box-sizing: border-box;
+}
+.chk_form textarea { resize: vertical; line-height: 1.5; }
+.chk_wordcount { margin: 0.25em 0 0; font-size: 0.9em; color: #555; }
+
+.chk_buttons { display: flex; gap: 1em; align-items: center; margin-top: 1em; }
+.chk_primary, .chk_secondary {
+  font: inherit; min-height: 44px; padding: 0 1.5em; border-radius: 6px; cursor: pointer;
+  display: inline-flex; align-items: center; text-decoration: none;
+}
+.chk_primary { border: none; background: #1f5f5b; color: #fff; font-weight: bold; }
+.chk_primary:hover { background: #174744; }
+.chk_secondary { border: 1px solid #1f5f5b; background: transparent; color: #1f5f5b; }
+
+.chk_privacy { margin-top: 1em; padding: 0.75em 1em; border-radius: 8px; background: #e3eeec; border: 1px solid #b7d0cc; }
+.chk_privacy p { margin: 0.25em 0; font-size: 0.95em; }
+.chk_privacy_head { font-weight: bold; color: #123c39; }
+
+.chk_message { padding: 0.75em 1em; background: #f7f0e2; border: 1px dashed #a39070; border-radius: 6px; }
+
+.chk_results { border-top: 1px solid #d9d4c7; padding-top: 1em; }
+
+.chk_scope { display: flex; flex-wrap: wrap; gap: 1.5em; align-items: center; padding: 1em 1.25em; border: 1px solid #d9d4c7; border-radius: 8px; margin-bottom: 1.5em; }
+.chk_scope_label { font-size: 0.9em; color: #555; }
+.chk_scope_value { font-size: 1.6em; font-weight: bold; color: #1d2321; }
+.chk_tiles { display: flex; flex-wrap: wrap; gap: 0.5em; }
+.chk_tile {
+  width: 7.5em; min-height: 3.5em; border-radius: 6px; background: #1f5f5b; color: #fff;
+  display: flex; align-items: center; justify-content: center; text-align: center; font-size: 0.85em; padding: 0.25em;
+}
+.chk_tile.chk_empty { background: #f7f0e2; color: #5a4210; border: 1px dashed #a39070; }
+.chk_scope_note { flex-basis: 100%; margin: 0; }
+
+.chk_cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(20em, 1fr)); gap: 1.25em; margin-bottom: 1.5em; }
+.chk_card { border: 1px solid #d9d4c7; border-radius: 8px; padding: 0.5em 1.25em 1em; }
+.chk_card_phenomenon { grid-row: span 2; }
+.chk_card.chk_empty { background: #f7f0e2; border: 1px dashed #a39070; }
+.chk_card h3 { margin-bottom: 0.25em; }
+.chk_card_desc { margin-top: 0; font-size: 0.9em; color: #555; }
+.chk_none { color: #5a4210; }
+.chk_terms { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.5em; }
+.chk_terms li {
+  display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.25em 0.75em;
+  padding: 0.6em 0.75em; border-radius: 6px; background: #e3eeec;
+}
+.chk_term { font-weight: bold; }
+.chk_subtype { font-weight: normal; font-size: 0.85em; color: #444; margin-left: 0.5em; }
+.chk_variant { font-size: 0.85em; color: #444; flex-basis: 100%; order: 3; }
+.chk_count { margin-left: auto; white-space: nowrap; font-size: 0.9em; }
+
+.chk_box { border: 1px solid #d9d4c7; border-radius: 8px; padding: 0.5em 1.25em 1em; margin-bottom: 1.5em; }
+.chk_kw_grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(11em, 1fr)); gap: 1em; }
+.chk_kw_facet { border: 1px solid #d9d4c7; border-radius: 6px; padding: 0.5em 1em 0.75em; margin: 0; min-width: 0; }
+.chk_kw_facet.chk_empty { background: #f7f0e2; border: 1px dashed #a39070; }
+.chk_kw_facet legend { font-weight: bold; padding: 0 0.3em; }
+.chk_kw_facet label { display: block; padding: 0.2em 0; }
+.chk_kw_actions { display: flex; gap: 1em; align-items: center; margin-top: 1em; }
+#chk_kw_status { font-size: 0.9em; color: #444; }
+
+.chk_related_list li { margin-bottom: 0.5em; }
+.chk_shared { font-size: 0.85em; color: #555; }
+
+.chk_suggest { background: #1f3a38; color: #eef3f1; border-radius: 8px; padding: 0.75em 1.5em; }
+.chk_suggest a { color: #fff; font-weight: bold; }

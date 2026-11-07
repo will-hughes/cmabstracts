@@ -72,7 +72,12 @@
                       <epc:phrase ref="navmenu_eprint_subject"/>
                     </a>
                   </li>
-            	</ul>
+				<li role="none">
+                    <a href="{$config{rel_path}}/browse/research_design/index.html" role="menuitem">
+                      <epc:phrase ref="bin/generate_views:indextitleprefix"/>
+                      <epc:phrase ref="navmenu_eprint_research_design"/>
+                    </a>
+                  </li>            	</ul>
               </li>
 
 			<li role="none">

@@ -1,4 +1,5 @@
 /opt/eprints3/var/log/issues_audit.log {
+    maxsize 200M
     weekly
     rotate 4
     compress
@@ -6,4 +7,15 @@
     notifempty
     copytruncate
     su eprints eprints
+}
+
+/opt/eprints3/var/log/generate_views.log {
+    su eprints eprints
+    weekly
+    rotate 4
+    compress
+    missingok
+    notifempty
+    copytruncate
+    maxsize 200M
 }

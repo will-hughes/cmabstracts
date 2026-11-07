@@ -7,7 +7,7 @@
 <h2>Purpose</h2>
 
 	<p>
-	CM Abstracts is a curated and indexed catalogue of construction management research. It holds the metadata (titles, authors, abstracts and keywords) for around 30,000 records. These are the contents of selected refereed journals and doctoral theses from around the world. Every record is indexed against a structured vocabulary of around 7,500 index terms, which have been derived from the vocabulary used by these authors.
+	CM Abstracts is a curated and indexed catalogue of construction management research. It holds the metadata (titles, authors, abstracts and keywords) for around 30,000 records. These are the contents of selected refereed journals and doctoral theses from around the world. Every record is indexed against a structured vocabulary of more than 6,000 index terms, which have been derived from the vocabulary used by these authors.
 	</p>
 	<p>
 	This page explains what the catalogue does and how it is organized.
@@ -71,7 +71,7 @@
 <h3>Who is it for?</h3>
 
 	<p>
-	The catalogue is for anyone who needs to find applied research in this area without wading through everything that shares its everyday vocabulary. This includes researchers at every stage, junior or experienced, working inside the field or approaching it from another discipline. It includes students and doctoral candidates learning to place their work in a literature. And it includes practitioners, who often struggle to see the practical use buried in theoretically dense papers. The same obstacle stands in front of all of them, and the catalogue removes it. Guidance for each of these readers is collected in the guides.
+	The catalogue is for anyone who needs to find applied research in this area without wading through everything that shares its everyday vocabulary. This includes researchers at every stage, junior or experienced, working inside the field or approaching it from another discipline. It includes students and doctoral candidates learning to place their work in a literature. And it includes practitioners, who often struggle to see the practical use buried in theoretically dense papers. The same obstacle stands in front of all of them, and the catalogue removes it. Guidance for each of these readers is collected in the guides. Authors can also try a draft title and abstract on the <a href="/cgi/checkabstract">Check your own abstract</a> page, to see how its wording relates to the vocabulary of the catalogue.
 	</p>
 	<p>
 	The catalogue does not do the most important work. Reading widely, judging quality and drawing the work together are the demanding parts of scholarship, and this catalogue leaves them untouched. What it removes is wasted effort in discovery. A reader who locates a paper but does not perceive which theoretical vocabulary it draws on misses part of what the paper is doing. Making that connection shows which vocabularies and traditions the research has worked with.
@@ -104,6 +104,6 @@
 			<epc:phrase ref="contact-footer"/>
 		</div>
 
-    <p><small><i>Last updated 15 September 2026</i></small></p>
+    <p><small><i>Last updated 29 September 2026</i></small></p>
 </xpage:body>
 </xpage:page>

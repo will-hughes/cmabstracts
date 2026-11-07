@@ -6,4 +6,5 @@ z_secrets.pl
 /bin/new_records.txt
 /static/sitemap_eprints.xml
 *.tmp
-
+/lang/en/static/browse/research_design/
+/bin/advisors.tsv

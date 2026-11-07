@@ -8,3 +8,8 @@ User-agent: SemrushBot
 Disallow: /
 
 Sitemap: https://cmabstracts.com/sitemap_eprints.xml
+
+
+User-agent: ExaSearchBot
+Disallow: /cgi/
+Crawl-delay: 10

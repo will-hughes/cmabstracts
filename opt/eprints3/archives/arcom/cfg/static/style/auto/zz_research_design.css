@@ -1,0 +1,4 @@
+/* Join the Research design item (from bin/generate_views:browseintro)
+   to the generated browse list below it */
+.rd_extra ul { margin-bottom: 0; }
+.rd_extra + .ep_view_browse_list ul { margin-top: 0; }

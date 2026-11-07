@@ -214,7 +214,7 @@ sub output_dataobj {
 	# ID - Unique Reference ID
 	my $repo_id = $plugin->{session}->get_repository->get_id;
 	my $eprint_id = $eprint->get_id;
-	$ris .= "ID  - ${repo_id}${eprint_id}\n";
+	$ris .= "ID  - cma${eprint_id}\n";
 
 	# ER - End of record, incl space and extra para break
 	$ris .= "ER  - \n\n";

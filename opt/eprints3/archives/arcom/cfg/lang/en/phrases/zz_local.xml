@@ -51,6 +51,7 @@
   <epp:phrase id="viewname_eprint_iterm">Index terms</epp:phrase>
   <epp:phrase id="viewname_eprint_topic">Topics (empirical issues)</epp:phrase>
   <epp:phrase id="viewname_eprint_subject">Subjects (academic lens)</epp:phrase>
+  <epp:phrase id="viewname_eprint_research_design">Research design</epp:phrase>
   <epp:phrase id="viewname_eprint_facet">Research facets</epp:phrase>
   <epp:phrase id="viewname_eprint_journals">Journal</epp:phrase>
   <epp:phrase id="viewname_eprint_taxonomy">Taxonomy</epp:phrase>
@@ -59,6 +60,7 @@
   <!-- Navigation titles for menu where different-->
   <epp:phrase id="navmenu_eprint_subject">Subjects</epp:phrase>
   <epp:phrase id="navmenu_eprint_thesis">Doctoral theses</epp:phrase>
+  <epp:phrase id="navmenu_eprint_research_design">Research design</epp:phrase>
 
 
   <!-- Browse view titles -->
@@ -100,7 +102,7 @@
   <epp:phrase id="lib/metafield:join_name.last"> and </epp:phrase>
 
   <!-- Footer -->
-  <epp:phrase id="template:about_eprints"><span xmlns:epc="http://eprints.org/ep3/control"><epc:phrase ref="archive_name"/> is inspired by the <strong>vision, imagination, curiosity and creativity</strong> of the CM research community,<br/> and powered by <em><a href="http://eprints.org/software/">EPrints 3.4</a></em> developed by the <a href="https://www.ecs.soton.ac.uk/">School of Electronics and Computer Science</a> at the University of Southampton. <a href="{$config{rel_path}}/eprints/">About EPrints</a> | <a href="{$config{rel_path}}/accessibility/">Accessibility</a></span></epp:phrase>
+  <epp:phrase id="template:about_eprints"><span xmlns:epc="http://eprints.org/ep3/control"><epc:phrase ref="archive_name"/> is curated and managed by <a href="https://www.reading.ac.uk/cme/staff/professor-will-hughes">Will Hughes</a>, inspired by the <strong>vision, imagination, curiosity and creativity</strong> of the CM research community,<br/> and powered by <em><a href="http://eprints.org/software/">EPrints 3.4</a></em> developed by the <a href="https://www.ecs.soton.ac.uk/">School of Electronics and Computer Science</a> at the University of Southampton. <a href="{$config{rel_path}}/eprints/">About EPrints</a> | <a href="{$config{rel_path}}/accessibility/">Accessibility</a></span></epp:phrase>
 
   <!--
   Notes:

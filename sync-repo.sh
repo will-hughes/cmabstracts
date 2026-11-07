@@ -14,9 +14,6 @@ rsync -a --delete --delete-excluded \
 mkdir -p "$REPO$ARC/ssl"
 cp "$ARC/ssl/securevhost.conf" "$REPO$ARC/ssl/"
 
-mkdir -p "$REPO$EP/bin"
-cp "$EP/bin/generate_views_and_reload.sh" "$REPO$EP/bin/"
-
 mkdir -p "$REPO/etc/apache2"
 rsync -a --delete --delete-excluded \
   --exclude='*.bak' --exclude='*~' \

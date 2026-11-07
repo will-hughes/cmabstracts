@@ -29,7 +29,7 @@
 			<p>Google released <a href="https://scholar.google.com/scholar_labs/search">Scholar Labs</a> in late 2025. It applies a language model to the full text of papers and returns an assembled answer, setting aside citation counts and journal standing as ordering signals. <a href="https://elicit.com/">Elicit</a>, <a href="https://consensus.app/">Consensus</a> and similar tools work along the same lines. Two consequences follow for anyone trying to survey a field.</p>
 			<p>The first is the silent omission of results because a ranked list, by definition, excludes items that are not at the top of the list. For example, you can scroll to, say, result 47, notice that the quality is declining, and make your own decision to stop scrolling. A generated answer shows nothing of what the engine declined to include and errors of exclusion become invisible. An easy test can show this: Ask the same question in two different formulations and the returned set will differ, with nothing in either answer to indicate that the other answer exists.</p>
 			<p>The second is contamination. Machine-written text is now entering the literature that crawlers collect. Haider et al. (2024) identified 139 papers in Google Scholar suspected of undisclosed generative AI authorship, of which 19 appeared in indexed journals and 89 in non-indexed ones, and warned that this opens the way to strategic manipulation of the evidence base. An index admitting anything shaped like a paper will admit these, and the synthesis layer will then draw on them.</p>
-			<p>Artificial intelligence does not diminish the case for a bounded, described collection. On the contrary, the case is strengthened by it. A model can be told exactly what a catalogue of 30,000+ records contains, how those records were selected, and what falls outside the scope. Nobody can supply the equivalent statement for the set of documents Google happens to have crawled.</p>
+			<p>Artificial intelligence does not diminish the case for a bounded, described collection. On the contrary, the case is strengthened by it. An LLM can be told exactly what a catalogue of around 30,000 records contains, how those records were selected, and what falls outside the scope. It is difficult to make that claim for the set of documents Google happens to have crawled.</p>
 			<h3>The direction of travel</h3>
 			<p>The widely used tools for online discovery are gradually shifting from listing results to assembling an answer for the researcher. When an interface ceases to show its working, the composition of the underlying collection becomes the last remaining control on output quality. Whatever cannot be seen in the process must be trusted in the source. At present, in the case of Google Scholar, that composition is undisclosed.</p>
 			<h3>The same questions in relation to CM Abstracts</h3>
@@ -73,6 +73,6 @@
 		  <epc:phrase ref="contact-footer"/>
 		</div>
 
-        <p><small><i>Last updated 16 September 2026</i></small></p>
+        <p><small><i>Last updated 29 September 2026</i></small></p>
     </xpage:body>
 </xpage:page>

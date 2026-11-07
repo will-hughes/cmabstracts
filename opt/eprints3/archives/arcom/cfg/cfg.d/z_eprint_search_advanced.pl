@@ -8,6 +8,7 @@ $c->{search}->{advanced} =
 		{ meta_fields => [ "abstract" ] },
 		{ meta_fields => [ "volume" ] }, #do not try 'number' as it fails for some reason
 		{ meta_fields => [ "date" ] },
+		{ meta_fields => [ "dscope" ] },
 		{ meta_fields => [ "issn" ] },
 		{ meta_fields => [ "keywords" ] },
 		{ meta_fields => [ "iterm" ] },

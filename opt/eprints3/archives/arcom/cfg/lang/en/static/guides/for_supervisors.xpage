@@ -17,6 +17,7 @@
 <li><strong>Evaluate empirical study completeness with research elements:</strong> Explain that the descriptive scope is an indicative tool that describes which facets (Phenomenon, Concept, Theoretical framing, Empirical technique, Analytical technique) are discernible in a paper's abstract. This can help students quickly identify papers that present a more fully described empirical study, aiding in their critical selection of sources.</li>
 <li><strong>Introduce critical evaluation early:</strong> With a <strong>relevantly filtered corpus</strong>, you can quickly shift the conversation from "finding something" to <strong>evaluating what is found</strong>. Point to examples of strong conceptual framing, clear methods, and weak contributions within the same search results. This teaches discernment using material that is, at least, topically pertinent.</li>
 <li><strong>Provide a positive, actionable start:</strong> Conclude a scoping session by exporting a shortlist of core references. This gives the student a concrete, academically relevant foundation from which to begin their critical reading and literature review, replacing vague instructions with a directed first step.</li>
+<li><strong>Use a draft abstract to discuss research design:</strong> A draft abstract shows how clearly a student can describe the study they intend to carry out. On the <a href="/cgi/checkabstract">Check your own abstract</a> page you and your student can enter a draft title and abstract together and see which index terms the wording matches, grouped by the five facets of the taxonomy. These are the same research elements that make up the descriptive scope of catalogued records. A facet with no matching term gives you a specific question to ask: which theory frames the study, how the data will be collected or how they will be analysed. Revising the abstract and checking it again lets the student see how more precise wording changes the result. The page also lists catalogued papers and theses that share the matched terms, which can extend a scoping session. Nothing entered is stored, so unfinished ideas stay private. The result describes wording only. It is not an assessment of the quality of the research.</li>
 </ul>
 <h4>Clarifying rigour vs. relevance</h4>
 <p>The database solves the <strong>relevance filter;</strong> it ensures you and your student are looking at the CM research conversation. It does <strong>not</strong> apply a quality filter. This is a pedagogical strength. It allows you to mentor the essential skill of critical appraisal within a controlled, discipline-specific environment. The student learns to distinguish rigorous, theory-driven work from weaker studies, but they learn this using a dataset where the signal-to-noise ratio is already vastly improved.</p>
@@ -28,6 +29,6 @@
 		  <epc:phrase ref="contact-footer"/>
 		</div>
 
-        <p><small><i>Last updated 16 September 2026</i></small></p>
+        <p><small><i>Last updated 29 September 2026</i></small></p>
     </xpage:body>
 </xpage:page>

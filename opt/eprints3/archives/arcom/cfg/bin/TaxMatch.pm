@@ -17,7 +17,9 @@ sub build_lookup {
 
     my %clean_to_original;
     foreach my $orig_lword (keys %$lookup_terms) {
-        my $clean_lword = lc($orig_lword);
+        my $clean_lword = $orig_lword;
+        utf8::decode($clean_lword) unless utf8::is_utf8($clean_lword);
+        $clean_lword = lc($clean_lword);
         $clean_lword =~ s/['"]//g;   # remove quotes
         $clean_lword =~ s/\s+/ /g;   # normalize spaces
         $clean_to_original{$clean_lword} = $orig_lword;
@@ -104,6 +106,20 @@ sub find_lwords {
     my ($text, $clean_to_original, $regex) = @_;
     my %seen;
     my $t = lc($text);
+
+    # ============================================================
+    # DASH NORMALIZATION.
+    # Comment out the two substitutions to match dashes as written.
+    # A hyphen-like dash between two letters (U+2010 hyphen, U+2011
+    # non-breaking hyphen, U+2012 figure dash, U+2013 en dash) becomes
+    # a hyphen, so "public–private" matches "public-private".
+    # An em dash or horizontal bar (U+2014, U+2015) is punctuation and
+    # becomes a space, so no lookup word can match across it.
+    # Dashes between digits ("2010–2015") are left alone.
+    $t =~ s/(?<=[[:alpha:]])[\x{2010}-\x{2013}](?=[[:alpha:]])/-/g;
+    $t =~ s/[\x{2014}\x{2015}]/ /g;
+    # ============================================================
+
     while ($t =~ /$regex/g) {
         my $w = lc($1);
         $seen{ $clean_to_original->{$w} } = 1 if exists $clean_to_original->{$w};

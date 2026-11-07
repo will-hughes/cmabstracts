@@ -8,6 +8,7 @@ $c->{search}->{advanced} =
 		{ meta_fields => [ "publication" ] },
 		{ meta_fields => [ "abstract" ] },
 		{ meta_fields => [ "date" ] },
+		{ meta_fields => [ "dscope" ] },
 		{ meta_fields => [ "official_url" ] },
 		{ meta_fields => [ "id_number" ] },
 		{ meta_fields => [ "issn" ] },

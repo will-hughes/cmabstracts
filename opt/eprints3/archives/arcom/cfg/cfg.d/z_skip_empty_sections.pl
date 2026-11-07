@@ -5,7 +5,7 @@
 # This needs to be in a file under the archive's cfg/cfg.d/
 
 $c->{group_by_a_to_z_hideempty} = sub {
-    my $grouping = EPrints::Update::Views::group_by_n_chars(@_, 1);
+    my $grouping = EPrints::Update::Views::group_by_n_chars_unidecode(@_, 1);
     foreach my $c ('A'..'Z') {
         delete $grouping->{$c} unless defined $grouping->{$c};
     }

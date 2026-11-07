@@ -9,12 +9,14 @@
 <dl id="ep-homepage-menu" title="Homepage Menu">
 
 	<dt>
-		<h3>
+		<h2>
 			A curated catalogue of construction management research
-		</h3>
+		</h2>
 	</dt>
 	<dd>
-		This is a freely available catalogue of construction management research. You do not need an account to use it. Creating one lets you save searches, but nothing here is behind a login. 
+		<p>Construction management research is spread across many journals and theses, some outside the major databases. CM Abstracts brings it together in one place. Every record is indexed against a taxonomy built for the field. You can browse by topic, subject or research design without having to guess the right search terms.</p>
+
+		<p>The site is free to use. An account lets you save searches, and receive notifications when new matches are added. Nothing else needs one.</p>
 	</dd>
 		
 	<dt id="search-repository">
@@ -57,6 +59,17 @@
 			<li>Index terms are also categorized into five research facets, corresponding to the five elements of empirical research. The <a href="{$config{rel_path}}/guides/dscope.html">descriptive scope</a> of each record shows how many of those elements its title, abstract and keywords reflect.</li>
 		  </ul>
 	</dd>
+
+
+	<dt>
+		<h3>
+			Check your own abstract
+		</h3>
+	</dt>
+	<dd>
+		If you are writing a paper or thesis, you can test a draft title and abstract against the taxonomy. The <a href="{$config{rel_cgipath}}/checkabstract">Check your own abstract</a> page shows which index terms your wording matches and which of the five research facets they cover. Nothing you enter is stored.
+	</dd>
+
 
 </dl>
 
